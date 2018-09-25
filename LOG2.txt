@@ -1,0 +1,1271 @@
+Sep 25 18:35:09 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x0051 Bin=['01 1F 00 80 03 04 04 44 5B 51 00 13 00 14 06 00 BE F3 A4 FF 5C 00 A2 01 00 64 A4 03 00 01 64 00']
+ Sep 25 18:35:09 iPhone-Roman CommCenter[76] <Notice>: Sending notification <private>
+ Sep 25 18:35:09 iPhone-Roman locationd[59] <Notice>: {"msg":"Incoming message", "event":"activity", "name":"kCLConnectionMessageActivityAlarmStart", "this":"0x1073befd0", "registrationReceived":0}
+ Sep 25 18:35:09 iPhone-Roman locationd[59] <Notice>: {"msg":"ActivityAlarm", "BundleID":<private>, "Executable":<private>, "AlarmTrigger":<private>, "AlarmDuration":<private>, "Action":<private>}
+ Sep 25 18:35:10 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x0051 Bin=['01 1F 00 80 03 04 04 45 5B 51 00 13 00 14 06 00 BE F7 A6 FF 86 00 A2 01 00 64 A4 03 00 01 64 00']
+ Sep 25 18:35:10 iPhone-Roman CommCenter[76] <Notice>: Sending notification <private>
+ Sep 25 18:35:10 iPhone-Roman aggregated(CoreLocation)[1383] <Notice>: {"msg":"CLCopyAppsUsingLocation", "event":"activity"}
+ Sep 25 18:35:10 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0xe2(BSP) Req MsgId=0xe002 Bin=[<private>]
+ Sep 25 18:35:10 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0xe2(BSP) Resp MsgId=0xe002 Bin=[<private>]
+ Sep 25 18:35:11 iPhone-Roman backboardd(MultitouchHID)[56] <Notice>: [HID] [MT] dispatchEvent Dispatching event with 1 children, _eventMask=0x23 _childEventMask=0x3 Cancel=0 Touching=1 inRange=1
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Attempting to acquire assertion for MobileSafari:1567: <BKProcessAssertion: 0x10442a900; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&21D0347E7FAB>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Add assertion: <BKProcessAssertion: 0x10442a900; id: 52-B8F23A81-BAFF-44E8-9FF6-21D0347E7FAB; name: com.apple.UIKit.KeyboardManagement.message; state: active; reason: finishTask; duration: 180.0s> {
+    owner = <BSProcessHandle: 0x10440ac50; SpringBoard:52; valid: YES>;
+    flags = preventSuspend, preventThrottleDownUI, preventThrottleDownCPU, preventSuspendOnSleep;
+}
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Activate assertion: <BKProcessAssertion: 0x10442a900; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&21D0347E7FAB>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Client relinquished <BKProcessAssertion: 0x10442a900; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&21D0347E7FAB>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Deactivate assertion: <BKProcessAssertion: 0x10442a900; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&21D0347E7FAB>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Remove assertion: <BKProcessAssertion: 0x10442a900; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&21D0347E7FAB>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: -[BKAssertion dealloc] - <0x10442a900>
+ Sep 25 18:35:11 iPhone-Roman wifid[42] <Notice>: WiFi:[559582511.152365]: __WiFiDeviceManagerLQMEventCallback: null snrNumRef
+ Sep 25 18:35:11 iPhone-Roman backboardd(MultitouchHID)[56] <Notice>: [HID] [MT] dispatchEvent Dispatching event with 1 children, _eventMask=0x23 _childEventMask=0x43 Cancel=0 Touching=0 inRange=0
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.WebContent(WebKit)[1568] <Notice>: 0x1061f80c8 - WebLoaderStrategy::scheduleLoad: Resource is being scheduled with the NetworkProcess (frame = 0x1067cc240, priority = 1, pageID = 1, frameID = 1, resourceID = 94)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(WebKit)[1569] <Notice>: 0x102a58000 - NetworkResourceLoader::start: Checking cache for resource (pageID = 1, frameID = 1, resourceID = 94, isMainResource = 0, isSynchronous = 0)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(WebKit)[1569] <Notice>: 0x102a58000 - NetworkResourceLoader::retrieveCacheEntry: Resource not in cache (pageID = 1, frameID = 1, resourceID = 94, isMainResource = 0, isSynchronous = 0)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(WebKit)[1569] <Notice>: 0x102a58000 - NetworkResourceLoader::startNetworkLoad: (pageID = 1, frameID = 1, resourceID = 94, isMainResource = 0, isSynchronous = 0)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: Task <127AB4C3-32A5-4BA9-BC90-4ED112C34C07>.<25> resuming, QOS(0x19)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(WebKit)[1569] <Notice>: 0x102a58000 - NetworkResourceLoader::startNetworkLoad: (pageID = 1, frameID = 1, resourceID = 94, description = LocalDataTask <127AB4C3-32A5-4BA9-BC90-4ED112C34C07>.<25>)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: Task <127AB4C3-32A5-4BA9-BC90-4ED112C34C07>.<25> {strength 0, tls 4, ct 0, sub 0, sig 1, ciphers 0, bundle 1, builtin 0}
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC Enabling TLS [14:0x125e2f4d0]
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TCP Conn Start [14:0x125e2f4d0]
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(libnetwork.dylib)[1569] <Notice>: [C14 Hostname#b2c10eb3:443 tcp, pid: 1567, url hash: 864829a7, tls] start
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(libnetwork.dylib)[1569] <Notice>: nw_connection_report_state_with_handler_locked [C14] reporting state preparing
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: Task <127AB4C3-32A5-4BA9-BC90-4ED112C34C07>.<25> setting up Connection 14
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.WebContent(WebKit)[1568] <Notice>: 0x1061f80c8 - WebLoaderStrategy::scheduleLoad: Resource is being scheduled with the NetworkProcess (frame = 0x1067cc240, priority = 1, pageID = 1, frameID = 1, resourceID = 95)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(WebKit)[1569] <Notice>: 0x102a58b00 - NetworkResourceLoader::start: Checking cache for resource (pageID = 1, frameID = 1, resourceID = 95, isMainResource = 0, isSynchronous = 0)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(WebKit)[1569] <Notice>: 0x102a58b00 - NetworkResourceLoader::retrieveCacheEntry: Resource not in cache (pageID = 1, frameID = 1, resourceID = 95, isMainResource = 0, isSynchronous = 0)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(WebKit)[1569] <Notice>: 0x102a58b00 - NetworkResourceLoader::startNetworkLoad: (pageID = 1, frameID = 1, resourceID = 95, isMainResource = 0, isSynchronous = 0)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: Task <2016E750-1D9F-4399-AEC9-4F76391F0B15>.<26> resuming, QOS(0x19)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(WebKit)[1569] <Notice>: 0x102a58b00 - NetworkResourceLoader::startNetworkLoad: (pageID = 1, frameID = 1, resourceID = 95, description = LocalDataTask <2016E750-1D9F-4399-AEC9-4F76391F0B15>.<26>)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: Task <2016E750-1D9F-4399-AEC9-4F76391F0B15>.<26> {strength 0, tls 4, ct 0, sub 0, sig 1, ciphers 0, bundle 1, builtin 0}
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC Enabling TLS [15:0x125e5f330]
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TCP Conn Start [15:0x125e5f330]
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(libnetwork.dylib)[1569] <Notice>: [C15 Hostname#405c07fc:443 tcp, pid: 1567, url hash: 99cbd416, tls] start
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(libnetwork.dylib)[1569] <Notice>: nw_connection_report_state_with_handler_locked [C15] reporting state preparing
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: Task <2016E750-1D9F-4399-AEC9-4F76391F0B15>.<26> setting up Connection 15
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(libnetwork.dylib)[1569] <Notice>: nw_endpoint_flow_protocol_connected [C14.1 IPv4#5be0eeab:443 in_progress channel-flow (satisfied)] Transport protocol connected
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TLS Event [14:0x125e2f4d0]: 1, Pending(0)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TLS Event [14:0x125e2f4d0]: 2, Pending(0)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(libnetwork.dylib)[1569] <Notice>: nw_endpoint_flow_protocol_connected [C15.1 IPv4#0d181f31:443 in_progress channel-flow (satisfied)] Transport protocol connected
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(libnetwork.dylib)[1569] <Notice>: nw_endpoint_flow_protocol_connected [C14.1 IPv4#5be0eeab:443 in_progress channel-flow (satisfied)] Output protocol connected
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(libnetwork.dylib)[1569] <Notice>: nw_connection_report_state_with_handler_locked [C14] reporting state ready
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TLS Event [14:0x125e2f4d0]: 2, Pending(0)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TCP Conn Connected [14:0x125e2f4d0]: Err(16)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TCP Conn Event [14:0x125e2f4d0]: 1
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TCP Conn Event [14:0x125e2f4d0]: 8
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TLS Handshake Complete [14:0x125e2f4d0]
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: new connection to <private> config 0x125e1a3d0
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: Task <127AB4C3-32A5-4BA9-BC90-4ED112C34C07>.<25> now using Connection 14
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TLS Event [15:0x125e5f330]: 1, Pending(0)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TLS Event [14:0x125e2f4d0]: 20, Pending(0)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(libnetwork.dylib)[1569] <Notice>: nw_endpoint_flow_protocol_connected [C14.1 IPv4#5be0eeab:443 ready channel-flow (satisfied)] Output protocol connected
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TLS Event [15:0x125e5f330]: 2, Pending(0)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: Task <127AB4C3-32A5-4BA9-BC90-4ED112C34C07>.<25> sent request, body N
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TLS Event [15:0x125e5f330]: 2, Pending(0)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TLS Event [15:0x125e5f330]: 11, Pending(0)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TLS Event [15:0x125e5f330]: 14, Pending(0)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: Task <127AB4C3-32A5-4BA9-BC90-4ED112C34C07>.<25> received response, status 200 content K
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: Task <127AB4C3-32A5-4BA9-BC90-4ED112C34C07>.<25> done using Connection 14
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: Task <127AB4C3-32A5-4BA9-BC90-4ED112C34C07>.<25> response ended
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(WebKit)[1569] <Notice>: 0x102a58000 - NetworkResourceLoader::didReceiveResponse: (pageID = 1, frameID = 1, resourceID = 94, httpStatusCode = 200, length = 44)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(WebKit)[1569] <Notice>: 0x102a58000 - NetworkResourceLoader::didReceiveBuffer: Started receiving data (pageID = 1, frameID = 1, resourceID = 94)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(WebKit)[1569] <Notice>: 0x102a58000 - NetworkResourceLoader::didFinishLoading: (pageID = 1, frameID = 1, resourceID = 94, length = 44)
+ Sep 25 18:35:11 iPhone-Roman trustd[196] <Notice>: ocsp responder: (null) did not include status of requested cert
+ Sep 25 18:35:11 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x0051 Bin=['01 1F 00 80 03 04 04 46 5B 51 00 13 00 14 06 00 BA F8 A2 FF D2 00 A2 01 00 64 A4 03 00 01 64 00']
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TLS Trust Result [15:0x125e5f330]: 0
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.WebContent(WebKit)[1568] <Notice>: 0x10ca787e0 - WebResourceLoader::didReceiveResponse: (pageID = 1, frameID = 1, resourceID = 94, status = 200)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.WebContent(WebKit)[1568] <Notice>: 0x10ca787e0 - WebResourceLoader::didReceiveData: Started receiving data (pageID = 1, frameID = 1, resourceID = 94)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.WebContent(WebKit)[1568] <Notice>: 0x10ca787e0 - WebResourceLoader::didFinishResourceLoad: (pageID = 1, frameID = 1, resourceID = 94, length = 44)
+ Sep 25 18:35:11 iPhone-Roman tccd[104] <Notice>: Granting PID[1567] access to kTCCServiceAddressBook via entitlement 'com.apple.private.tcc.allow'
+ Sep 25 18:35:11 iPhone-Roman MobileSafari(libMobileGestalt.dylib)[1567] <Notice>: taking IOKit fast path for key: yNesiJuidlesNpI/K5Ri4A
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(libnetwork.dylib)[1569] <Notice>: nw_endpoint_flow_protocol_connected [C15.1 IPv4#0d181f31:443 in_progress channel-flow (satisfied)] Output protocol connected
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(libnetwork.dylib)[1569] <Notice>: nw_connection_report_state_with_handler_locked [C15] reporting state ready
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TLS Event [15:0x125e5f330]: 20, Pending(0)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TCP Conn Connected [15:0x125e5f330]: Err(16)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TCP Conn Event [15:0x125e5f330]: 1
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TCP Conn Event [15:0x125e5f330]: 8
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: client <private> HWM increased to 4 because of <private>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Attempting to acquire assertion for MobileSafari:1567: <BKProcessAssertion: 0x10442a900; "com.apple.AddressBook.ABCDBContextCreateWithPathAndAddressBook" (finishTask:180s); id:\M-b\M^@\M-&65341972C705>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Add assertion: <BKProcessAssertion: 0x10442a900; id: 1567-7833BFEB-1340-4AE1-A242-65341972C705; name: com.apple.AddressBook.ABCDBContextCreateWithPathAndAddressBook; state: active; reason: finishTask; duration: 180.0s> {
+    owner = <BSProcessHandle: 0x10473fb10; MobileSafari:1567; valid: YES>;
+    flags = preventSuspend, preventIdleSleep, preventSuspendOnSleep;
+}
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Activate assertion: <BKProcessAssertion: 0x10442a900; "com.apple.AddressBook.ABCDBContextCreateWithPathAndAddressBook" (finishTask:180s); id:\M-b\M^@\M-&65341972C705>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Client relinquished <BKProcessAssertion: 0x10442a900; "com.apple.AddressBook.ABCDBContextCreateWithPathAndAddressBook" (finishTask:180s); id:\M-b\M^@\M-&65341972C705>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Deactivate assertion: <BKProcessAssertion: 0x10442a900; "com.apple.AddressBook.ABCDBContextCreateWithPathAndAddressBook" (finishTask:180s); id:\M-b\M^@\M-&65341972C705>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Remove assertion: <BKProcessAssertion: 0x10442a900; "com.apple.AddressBook.ABCDBContextCreateWithPathAndAddressBook" (finishTask:180s); id:\M-b\M^@\M-&65341972C705>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: -[BKAssertion dealloc] - <0x10442a900>
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: TIC TLS Handshake Complete [15:0x125e5f330]
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: new connection to <private> config 0x125e1a3d0
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: Task <2016E750-1D9F-4399-AEC9-4F76391F0B15>.<26> now using Connection 15
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(libnetwork.dylib)[1569] <Notice>: nw_endpoint_flow_protocol_connected [C15.1 IPv4#0d181f31:443 ready channel-flow (satisfied)] Output protocol connected
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: Task <2016E750-1D9F-4399-AEC9-4F76391F0B15>.<26> sent request, body N
+ Sep 25 18:35:11 iPhone-Roman accountsd(AccountsDaemon)[92] <Notice>: "<private> (<private>) received"
+ Sep 25 18:35:11 iPhone-Roman CommCenter[76] <Notice>: Sending notification <private>
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: Task <2016E750-1D9F-4399-AEC9-4F76391F0B15>.<26> received response, status 200 content K
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: Task <2016E750-1D9F-4399-AEC9-4F76391F0B15>.<26> done using Connection 15
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(CFNetwork)[1569] <Notice>: Task <2016E750-1D9F-4399-AEC9-4F76391F0B15>.<26> response ended
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(WebKit)[1569] <Notice>: 0x102a58b00 - NetworkResourceLoader::didReceiveResponse: (pageID = 1, frameID = 1, resourceID = 95, httpStatusCode = 200, length = 591)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(WebKit)[1569] <Notice>: 0x102a58b00 - NetworkResourceLoader::didReceiveBuffer: Started receiving data (pageID = 1, frameID = 1, resourceID = 95)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.Networking(WebKit)[1569] <Notice>: 0x102a58b00 - NetworkResourceLoader::didFinishLoading: (pageID = 1, frameID = 1, resourceID = 95, length = 591)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.WebContent(WebKit)[1568] <Notice>: 0x11d19eae0 - WebResourceLoader::didReceiveResponse: (pageID = 1, frameID = 1, resourceID = 95, status = 200)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.WebContent(WebKit)[1568] <Notice>: 0x11d19eae0 - WebResourceLoader::didReceiveData: Started receiving data (pageID = 1, frameID = 1, resourceID = 95)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.WebContent(WebKit)[1568] <Notice>: 0x11d19eae0 - WebResourceLoader::didFinishResourceLoad: (pageID = 1, frameID = 1, resourceID = 95, length = 591)
+ Sep 25 18:35:11 iPhone-Roman com.apple.WebKit.WebContent(WebCore)[1568] <Notice>: 0x10c2a4f00 - DocumentLoader::startLoadingMainResource: Returning empty document (frame = 0x11a955b00, main = 1)
+ Sep 25 18:35:11 iPhone-Roman MobileSafari(UIKitCore)[1567] <Notice>: API error: <_UIKBCompatInputView: 0x106ef3fa0; frame = (0 0; 0 0); layer = <CALayer: 0x10258fb10>> returned 0 width, assuming UIViewNoIntrinsicMetric
+ Sep 25 18:35:11 iPhone-Roman MobileSafari(UIKitCore)[1567] <Notice>: API error: <_UIKBCompatInputView: 0x106ef3fa0; frame = (0 0; 0 0); layer = <CALayer: 0x10258fb10>> returned 0 width, assuming UIViewNoIntrinsicMetric
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Attempting to acquire assertion for MobileSafari:1567: <BKProcessAssertion: 0x10474ac20; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&3B414994DBF1>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Add assertion: <BKProcessAssertion: 0x10474ac20; id: 1567-6577397A-933B-46B0-A856-3B414994DBF1; name: systemAnimationFence; state: active; reason: finishTask; duration: 180.0s> {
+    owner = <BSProcessHandle: 0x10473fb10; MobileSafari:1567; valid: YES>;
+    flags = preventSuspend, preventThrottleDownCPU, preventSuspendOnSleep;
+}
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Activate assertion: <BKProcessAssertion: 0x10474ac20; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&3B414994DBF1>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Attempting to acquire assertion for SpringBoard:52: <BKProcessAssertion: 0x10442a900; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&607C61FF428F>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Add assertion: <BKProcessAssertion: 0x10442a900; id: 52-2DB30F01-7859-45A1-830E-607C61FF428F; name: com.apple.UIKit.KeyboardManagement.message; state: active; reason: finishTask; duration: 180.0s> {
+    owner = <BSProcessHandle: 0x10440ac50; SpringBoard:52; valid: YES>;
+    flags = preventSuspend, preventThrottleDownUI, preventThrottleDownCPU, preventSuspendOnSleep;
+}
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Activate assertion: <BKProcessAssertion: 0x10442a900; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&607C61FF428F>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on SpringBoard:52
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Attempting to acquire assertion for MobileSafari:1567: <BKProcessAssertion: 0x104444d70; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&D2C25A03EE57>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Add assertion: <BKProcessAssertion: 0x104444d70; id: 52-A71500E7-0A34-4A26-BB6D-D2C25A03EE57; name: com.apple.UIKit.KeyboardManagement.message; state: active; reason: finishTask; duration: 180.0s> {
+    owner = <BSProcessHandle: 0x10440ac50; SpringBoard:52; valid: YES>;
+    flags = preventSuspend, preventThrottleDownUI, preventThrottleDownCPU, preventSuspendOnSleep;
+}
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Activate assertion: <BKProcessAssertion: 0x104444d70; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&D2C25A03EE57>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:11 iPhone-Roman SpringBoard(KeyboardArbiter)[52] <Error>: [<_UIKeyboardArbiterHandle: 0x2807d17a0; PID 380: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] could not take process assertion
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Attempting to acquire assertion for SpringBoard:52: <BKProcessAssertion: 0x104442060; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&476FEE33A167>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Add assertion: <BKProcessAssertion: 0x104442060; id: 52-FEA6E612-A23C-4D20-B7FA-476FEE33A167; name: systemAnimationFence; state: active; reason: finishTask; duration: 180.0s> {
+    owner = <BSProcessHandle: 0x10440ac50; SpringBoard:52; valid: YES>;
+    flags = preventSuspend, preventThrottleDownCPU, preventSuspendOnSleep;
+}
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Activate assertion: <BKProcessAssertion: 0x104442060; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&476FEE33A167>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on SpringBoard:52
+ Sep 25 18:35:11 iPhone-Roman mediaserverd(AudioToolbox)[180] <Notice>: 1438: clientPID 1567(MobileSafari), flag 1, ssid 1104
+ Sep 25 18:35:11 iPhone-Roman MobileSafari(UIKitCore)[1567] <Notice>: activate generator <_UIKeyboardFeedbackGenerator: 0x106ef1430: prepared=1> with style: TurnOn; activationCount: 0 -> 1; styleActivationCount: 0 -> 1
+ Sep 25 18:35:11 iPhone-Roman MobileSafari(UIKitCore)[1567] <Notice>: activate engine <_UIFeedbackSystemSoundEngine: 0x106e9ce20>, clientCount: 0 -> 1
+ Sep 25 18:35:11 iPhone-Roman MobileSafari(UIKitCore)[1567] <Notice>: activating engine <_UIFeedbackSystemSoundEngine: 0x106e9ce20>
+ Sep 25 18:35:11 iPhone-Roman MobileSafari(UIKitCore)[1567] <Notice>: engine <_UIFeedbackSystemSoundEngine: 0x106e9ce20: state=0, numberOfClients=1, prewarmCount=0, _isSuspended=0> state changed: Inactive -> Activating
+ Sep 25 18:35:11 iPhone-Roman MobileSafari(UIKitCore)[1567] <Notice>: engine <_UIFeedbackSystemSoundEngine: 0x106e9ce20: state=3, numberOfClients=1, prewarmCount=0, _isSuspended=0> state changed: Activating -> Running
+ Sep 25 18:35:11 iPhone-Roman tccd[104] <Notice>: PID[212] is checking access for target PID[131]
+ Sep 25 18:35:11 iPhone-Roman tccd[104] <Notice>: Granting PID[131] access to kTCCServiceAddressBook via entitlement 'com.apple.private.tcc.allow'
+ Sep 25 18:35:11 iPhone-Roman SpringBoard(KeyboardArbiter)[52] <Error>: [<_UIKeyboardArbiterHandle: 0x2807d17a0; PID 380: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] could not take process assertion
+ Sep 25 18:35:11 iPhone-Roman MobileSafari(UIKitCore)[1567] <Error>: Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1082616f0 h=-&- v=-&- _UIToolbarContentView:0x106ed92f0.width == UIToolbar:0x106ed89b0.width   (active)>",
+    "<NSLayoutConstraint:0x106edf5e0 H:|-(0)-[_UIButtonBarStackView:0x106edce60]   (active, names: '|':_UIToolbarContentView:0x106ed92f0 )>",
+    "<NSLayoutConstraint:0x106edf730 _UIButtonBarStackView:0x106edce60.trailing == _UIToolbarContentView:0x106ed92f0.trailing   (active)>",
+    "<NSLayoutConstraint:0x10830f060 H:|-(16)-[_UIModernBarButton:0x10830dd30]   (active, names: '|':_UIButtonBarButton:0x10830d790 )>",
+    "<NSLayoutConstraint:0x10830f1b0 H:[_UIModernBarButton:0x10830dd30]-(>=8)-|   (active, names: '|':_UIButtonBarButton:0x10830d790 )>",
+    "<NSLayoutConstraint:0x108310ee0 H:|-(>=5)-[_UIModernBarButton:0x108310430]   (active, names: '|':_UIButtonBarButton:0x108310070 )>",
+    "<NSLayoutConstraint:0x108311030 H:[_UIModernBarButton:0x108310430]-(>=5)-|   (active, names: '|':_UIButtonBarButton:0x108310070 )>",
+    "<NSLayoutConstraint:0x108313f60 H:|-(8)-[_UIModernBarButton:0x108312790'\134U0413\134U043e\134U0442\134U043e\134U0432\134U043e']   (active, names: '|':_UIButtonBarButton:0x108311d90 )>",
+    "<NSLayoutConstraint:0x1083140b0 H:[_UIModernBarButton:0x108312790'\134U0413\134U043e\134U0442\134U043e\134U0432\134U043e']-(16)-|   (active, names: '|':_UIButtonBarButton:0x108311d90 )>",
+    "<NSLayoutConstraint:0x108315140 'UISV-canvas-connection' UILayoutGuide:0x106ede520'UIViewLayoutMarginsGuide'.leading == _UIButtonBarButton:0x10830d790.leading   (active)>",
+    "<NSLayoutConstraint:0x10831afc0 'UISV-canvas-connection' UILayoutGuide:0x106ede520'UIViewLayoutMarginsGuide'.trailing == _UIButtonBarButton:0x108311d90.trailing   (active)>",
+    "<NSLayoutConstraint:0x106edf010 'UISV-spacing' H:[_UIButtonBarButton:0x10830d790]-(0)-[UIView:0x10830fd10]   (active)>",
+    "<NSLayoutConstraint:0x10823f690 'UISV-spacing' H:[UIView:0x10830fd10]-(0)-[_UIButtonBarButton:0x108310070]   (active)>",
+    "<NSLayoutConstraint:0x108251be0 'UISV-spacing' H:[_UIButtonBarButton:0x108310070]-(0)-[UIView:0x108311a30]   (active)>",
+    "<NSLayoutConstraint:0x106e5f990 'UISV-spacing' H:[UIView:0x108311a30]-(0)-[_UIButtonBarButton:0x108311d90]   (active)>",
+    "<NSLayoutConstraint:0x10831aec0 'UIView-Encapsulated-Layout-Width' UIToolbar:0x106ed89b0.width == 0   (active)>",
+    "<NSLayoutConstraint:0x106edea40 'UIView-leftMargin-guide-constraint' H:|-(0)-[UILayoutGuide:0x106ede520'UIViewLayoutMarginsGuide'](LTR)   (active, names: '|':_UIButtonBarStackView:0x106edce60 )>",
+    "<NSLayoutConstraint:0x106edeea0 'UIView-rightMargin-guide-constraint' H:[UILayoutGuide:0x106ede520'UIViewLayoutMarginsGuide']-(0)-|(LTR)   (active, names: '|':_UIButtonBarStackView:0x106edce60 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x10830f1b0 H:[_UIModernBarButton:0x10830dd30]-(>=8)-|   (active, names: '|':_UIButtonBarButton:0x10830d790 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKitCore/UIView.h> may also be helpful.
+ Sep 25 18:35:11 iPhone-Roman MobileSafari(UIKitCore)[1567] <Error>: Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1082616f0 h=-&- v=-&- _UIToolbarContentView:0x106ed92f0.width == UIToolbar:0x106ed89b0.width   (active)>",
+    "<NSLayoutConstraint:0x106edf5e0 H:|-(0)-[_UIButtonBarStackView:0x106edce60]   (active, names: '|':_UIToolbarContentView:0x106ed92f0 )>",
+    "<NSLayoutConstraint:0x106edf730 _UIButtonBarStackView:0x106edce60.trailing == _UIToolbarContentView:0x106ed92f0.trailing   (active)>",
+    "<NSLayoutConstraint:0x108310ee0 H:|-(>=5)-[_UIModernBarButton:0x108310430]   (active, names: '|':_UIButtonBarButton:0x108310070 )>",
+    "<NSLayoutConstraint:0x108311030 H:[_UIModernBarButton:0x108310430]-(>=5)-|   (active, names: '|':_UIButtonBarButton:0x108310070 )>",
+    "<NSLayoutConstraint:0x108313f60 H:|-(8)-[_UIModernBarButton:0x108312790'\134U0413\134U043e\134U0442\134U043e\134U0432\134U043e']   (active, names: '|':_UIButtonBarButton:0x108311d90 )>",
+    "<NSLayoutConstraint:0x1083140b0 H:[_UIModernBarButton:0x108312790'\134U0413\134U043e\134U0442\134U043e\134U0432\134U043e']-(16)-|   (active, names: '|':_UIButtonBarButton:0x108311d90 )>",
+    "<NSLayoutConstraint:0x108315140 'UISV-canvas-connection' UILayoutGuide:0x106ede520'UIViewLayoutMarginsGuide'.leading == _UIButtonBarButton:0x10830d790.leading   (active)>",
+    "<NSLayoutConstraint:0x10831afc0 'UISV-canvas-connection' UILayoutGuide:0x106ede520'UIViewLayoutMarginsGuide'.trailing == _UIButtonBarButton:0x108311d90.trailing   (active)>",
+    "<NSLayoutConstraint:0x106edf010 'UISV-spacing' H:[_UIButtonBarButton:0x10830d790]-(0)-[UIView:0x10830fd10]   (active)>",
+    "<NSLayoutConstraint:0x10823f690 'UISV-spacing' H:[UIView:0x10830fd10]-(0)-[_UIButtonBarButton:0x108310070]   (active)>",
+    "<NSLayoutConstraint:0x108251be0 'UISV-spacing' H:[_UIButtonBarButton:0x108310070]-(0)-[UIView:0x108311a30]   (active)>",
+    "<NSLayoutConstraint:0x106e5f990 'UISV-spacing' H:[UIView:0x108311a30]-(0)-[_UIButtonBarButton:0x108311d90]   (active)>",
+    "<NSLayoutConstraint:0x10831aec0 'UIView-Encapsulated-Layout-Width' UIToolbar:0x106ed89b0.width == 0   (active)>",
+    "<NSLayoutConstraint:0x106edea40 'UIView-leftMargin-guide-constraint' H:|-(0)-[UILayoutGuide:0x106ede520'UIViewLayoutMarginsGuide'](LTR)   (active, names: '|':_UIButtonBarStackView:0x106edce60 )>",
+    "<NSLayoutConstraint:0x106edeea0 'UIView-rightMargin-guide-constraint' H:[UILayoutGuide:0x106ede520'UIViewLayoutMarginsGuide']-(0)-|(LTR)   (active, names: '|':_UIButtonBarStackView:0x106edce60 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x108311030 H:[_UIModernBarButton:0x108310430]-(>=5)-|   (active, names: '|':_UIButtonBarButton:0x108310070 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKitCore/UIView.h> may also be helpful.
+ Sep 25 18:35:11 iPhone-Roman MobileSafari(UIKitCore)[1567] <Error>: Unable to simultaneously satisfy constraints.
+	Probably at least one of the constraints in the following list is one you don't want. 
+	Try this: 
+		(1) look at each constraint and try to figure out which you don't expect; 
+		(2) find the code that added the unwanted constraint or constraints and fix it. 
+	(Note: If you're seeing NSAutoresizingMaskLayoutConstraints that you don't understand, refer to the documentation for the UIView property translatesAutoresizingMaskIntoConstraints) 
+(
+    "<NSAutoresizingMaskLayoutConstraint:0x1082616f0 h=-&- v=-&- _UIToolbarContentView:0x106ed92f0.width == UIToolbar:0x106ed89b0.width   (active)>",
+    "<NSLayoutConstraint:0x106edf5e0 H:|-(0)-[_UIButtonBarStackView:0x106edce60]   (active, names: '|':_UIToolbarContentView:0x106ed92f0 )>",
+    "<NSLayoutConstraint:0x106edf730 _UIButtonBarStackView:0x106edce60.trailing == _UIToolbarContentView:0x106ed92f0.trailing   (active)>",
+    "<NSLayoutConstraint:0x108313f60 H:|-(8)-[_UIModernBarButton:0x108312790'\134U0413\134U043e\134U0442\134U043e\134U0432\134U043e']   (active, names: '|':_UIButtonBarButton:0x108311d90 )>",
+    "<NSLayoutConstraint:0x1083140b0 H:[_UIModernBarButton:0x108312790'\134U0413\134U043e\134U0442\134U043e\134U0432\134U043e']-(16)-|   (active, names: '|':_UIButtonBarButton:0x108311d90 )>",
+    "<NSLayoutConstraint:0x108315140 'UISV-canvas-connection' UILayoutGuide:0x106ede520'UIViewLayoutMarginsGuide'.leading == _UIButtonBarButton:0x10830d790.leading   (active)>",
+    "<NSLayoutConstraint:0x10831afc0 'UISV-canvas-connection' UILayoutGuide:0x106ede520'UIViewLayoutMarginsGuide'.trailing == _UIButtonBarButton:0x108311d90.trailing   (active)>",
+    "<NSLayoutConstraint:0x106edf010 'UISV-spacing' H:[_UIButtonBarButton:0x10830d790]-(0)-[UIView:0x10830fd10]   (active)>",
+    "<NSLayoutConstraint:0x10823f690 'UISV-spacing' H:[UIView:0x10830fd10]-(0)-[_UIButtonBarButton:0x108310070]   (active)>",
+    "<NSLayoutConstraint:0x108251be0 'UISV-spacing' H:[_UIButtonBarButton:0x108310070]-(0)-[UIView:0x108311a30]   (active)>",
+    "<NSLayoutConstraint:0x106e5f990 'UISV-spacing' H:[UIView:0x108311a30]-(0)-[_UIButtonBarButton:0x108311d90]   (active)>",
+    "<NSLayoutConstraint:0x10831aec0 'UIView-Encapsulated-Layout-Width' UIToolbar:0x106ed89b0.width == 0   (active)>",
+    "<NSLayoutConstraint:0x106edea40 'UIView-leftMargin-guide-constraint' H:|-(0)-[UILayoutGuide:0x106ede520'UIViewLayoutMarginsGuide'](LTR)   (active, names: '|':_UIButtonBarStackView:0x106edce60 )>",
+    "<NSLayoutConstraint:0x106edeea0 'UIView-rightMargin-guide-constraint' H:[UILayoutGuide:0x106ede520'UIViewLayoutMarginsGuide']-(0)-|(LTR)   (active, names: '|':_UIButtonBarStackView:0x106edce60 )>"
+)
+
+Will attempt to recover by breaking constraint 
+<NSLayoutConstraint:0x1083140b0 H:[_UIModernBarButton:0x108312790'\M-P\M^S\M-P\M->\M-Q\M^B\M-P\M->\M-P\M-2\M-P\M->']-(16)-|   (active, names: '|':_UIButtonBarButton:0x108311d90 )>
+
+Make a symbolic breakpoint at UIViewAlertForUnsatisfiableConstraints to catch this in the debugger.
+The methods in the UIConstraintBasedLayoutDebugging category on UIView listed in <UIKitCore/UIView.h> may also be helpful.
+ Sep 25 18:35:11 iPhone-Roman mediaserverd(AudioToolbox)[180] <Notice>: 1438: clientPID 1567(MobileSafari), flag 1, ssid 1155
+ Sep 25 18:35:11 iPhone-Roman mediaserverd(AudioToolbox)[180] <Notice>: 1438: clientPID 1567(MobileSafari), flag 1, ssid 1156
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Client relinquished <BKProcessAssertion: 0x104444d70; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&D2C25A03EE57>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Deactivate assertion: <BKProcessAssertion: 0x104444d70; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&D2C25A03EE57>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Remove assertion: <BKProcessAssertion: 0x104444d70; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&D2C25A03EE57>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: -[BKAssertion dealloc] - <0x104444d70>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Client relinquished <BKProcessAssertion: 0x10474ac20; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&3B414994DBF1>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Deactivate assertion: <BKProcessAssertion: 0x10474ac20; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&3B414994DBF1>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Client relinquished <BKProcessAssertion: 0x10442a900; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&607C61FF428F>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Client relinquished <BKProcessAssertion: 0x104442060; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&476FEE33A167>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Deactivate assertion: <BKProcessAssertion: 0x10442a900; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&607C61FF428F>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Remove assertion: <BKProcessAssertion: 0x10474ac20; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&3B414994DBF1>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on SpringBoard:52
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Remove assertion: <BKProcessAssertion: 0x10442a900; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&607C61FF428F>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on SpringBoard:52
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: -[BKAssertion dealloc] - <0x10474ac20>
+ Sep 25 18:35:11 iPhone-Roman MobileSafari(CallKit)[1567] <Notice>: Call host has no calls
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Deactivate assertion: <BKProcessAssertion: 0x104442060; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&476FEE33A167>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on SpringBoard:52
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: -[BKAssertion dealloc] - <0x10442a900>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Remove assertion: <BKProcessAssertion: 0x104442060; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&476FEE33A167>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on SpringBoard:52
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: -[BKAssertion dealloc] - <0x104442060>
+ Sep 25 18:35:11 iPhone-Roman CommCenter[76] <Notice>: #I FBSDisplayLayoutUpdateHandler: update start
+ Sep 25 18:35:11 iPhone-Roman CommCenter[76] <Notice>: #I FBSDisplayLayoutUpdateHandler: app <private> (UIApplicationElement 1 hasKeyboardFocus 1)
+ Sep 25 18:35:11 iPhone-Roman CommCenter[76] <Notice>: #I FBSDisplayLayoutUpdateHandler: 4. app got notification state: pid=1567 for <private>
+ Sep 25 18:35:11 iPhone-Roman CommCenter[76] <Notice>: #I FBSDisplayLayoutUpdateHandler: update start
+ Sep 25 18:35:11 iPhone-Roman CommCenter[76] <Notice>: #I FBSDisplayLayoutUpdateHandler: app <private> (UIApplicationElement 1 hasKeyboardFocus 0)
+ Sep 25 18:35:11 iPhone-Roman CommCenter[76] <Notice>: #I FBSDisplayLayoutUpdateHandler: 4. app got notification state: pid=1567 for <private>
+ Sep 25 18:35:11 iPhone-Roman CommCenter[76] <Notice>: #I FBSDisplayLayoutUpdateHandler: update start
+ Sep 25 18:35:11 iPhone-Roman CommCenter[76] <Notice>: #I FBSDisplayLayoutUpdateHandler: app <private> (UIApplicationElement 1 hasKeyboardFocus 1)
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Created BKApplicationStateServerClient for [76:<private>] -> <private>
+ Sep 25 18:35:11 iPhone-Roman CommCenter[76] <Notice>: #I FBSDisplayLayoutUpdateHandler: 4. app got notification state: pid=1567 for <private>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Created BKApplicationStateServerClient for [76:<private>] -> <private>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Created BKApplicationStateServerClient for [76:<private>] -> <private>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Removed BKApplicationStateServerClient for [76:<private>] -> <private>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Removed BKApplicationStateServerClient for [76:<private>] -> <private>
+ Sep 25 18:35:11 iPhone-Roman assertiond[62] <Notice>: Removed BKApplicationStateServerClient for [76:<private>] -> <private>
+ Sep 25 18:35:11 iPhone-Roman useractivityd[220] <Notice>: DETERMINE: A9F61442-6A80-4E06-97C4-2064C7864E93/<private> as the current item-to-advertise.
+ Sep 25 18:35:11 iPhone-Roman useractivityd[220] <Notice>: DETERMINE: A9F61442-6A80-4E06-97C4-2064C7864E93/<private> as the current item-to-advertise.
+ Sep 25 18:35:11 iPhone-Roman useractivityd[220] <Notice>: DETERMINE: A9F61442-6A80-4E06-97C4-2064C7864E93/<private> as the current item-to-advertise.
+ Sep 25 18:35:11 iPhone-Roman sharingd[57] <Notice>: SystemUI changed: 0x0 -> 0x0
+ Sep 25 18:35:11 iPhone-Roman sharingd[57] <Notice>: SystemUI changed: 0x0 -> 0x0
+ Sep 25 18:35:11 iPhone-Roman sharingd[57] <Notice>: SystemUI changed: 0x0 -> 0x0
+ Sep 25 18:35:11 iPhone-Roman suggestd(PersonalizationPortraitInternals)[143] <Notice>: PPScales: PPLocalContactStore: _namesForAllFoundOnDeviceWithCompletion: 0.361883
+ Sep 25 18:35:12 iPhone-Roman backboardd(AttentionAwareness)[56] <Notice>:              EventStatistics.m:48  :   50719.46813:  Info: 6 Digitizer since   50715.46606 (Tue Sep 25 18:35:08 2018)
+ Sep 25 18:35:12 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Attempting to acquire assertion for SpringBoard:52: <BKProcessAssertion: 0x10442a900; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&C9C5C1DC3D80>
+ Sep 25 18:35:12 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Add assertion: <BKProcessAssertion: 0x10442a900; id: 52-84955264-A9EB-4032-8C43-C9C5C1DC3D80; name: com.apple.UIKit.KeyboardManagement.message; state: active; reason: finishTask; duration: 180.0s> {
+    owner = <BSProcessHandle: 0x10440ac50; SpringBoard:52; valid: YES>;
+    flags = preventSuspend, preventThrottleDownUI, preventThrottleDownCPU, preventSuspendOnSleep;
+}
+ Sep 25 18:35:12 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Activate assertion: <BKProcessAssertion: 0x10442a900; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&C9C5C1DC3D80>
+ Sep 25 18:35:12 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on SpringBoard:52
+ Sep 25 18:35:12 iPhone-Roman assertiond[62] <Notice>: Client relinquished <BKProcessAssertion: 0x10442a900; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&C9C5C1DC3D80>
+ Sep 25 18:35:12 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Deactivate assertion: <BKProcessAssertion: 0x10442a900; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&C9C5C1DC3D80>
+ Sep 25 18:35:12 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on SpringBoard:52
+ Sep 25 18:35:12 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Remove assertion: <BKProcessAssertion: 0x10442a900; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&C9C5C1DC3D80>
+ Sep 25 18:35:12 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on SpringBoard:52
+ Sep 25 18:35:12 iPhone-Roman assertiond[62] <Notice>: -[BKAssertion dealloc] - <0x10442a900>
+ Sep 25 18:35:12 iPhone-Roman SpringBoard(KeyboardArbiter)[52] <Error>: [<_UIKeyboardArbiterHandle: 0x2807d17a0; PID 380: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] could not take process assertion
+ Sep 25 18:35:12 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x0051 Bin=['01 1F 00 80 03 04 04 47 5B 51 00 13 00 14 06 00 BF F7 A2 FF BC 00 A2 01 00 64 A4 03 00 01 64 00']
+ Sep 25 18:35:12 iPhone-Roman CommCenter[76] <Notice>: Sending notification <private>
+ Sep 25 18:35:13 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0xe2(BSP) Req MsgId=0xe002 Bin=[<private>]
+ Sep 25 18:35:13 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0xe2(BSP) Resp MsgId=0xe002 Bin=[<private>]
+ Sep 25 18:35:13 iPhone-Roman useractivityd(Sharing)[220] <Notice>: client process changing types to scan for to None
+ Sep 25 18:35:13 iPhone-Roman sharingd[57] <Notice>: Skipping request for enabled: YES, state: PoweredOn, shouldStart: NO, scanForCopyPaste: NO, scanForHandoff: NO
+ Sep 25 18:35:13 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x0051 Bin=['01 1F 00 80 03 04 04 48 5B 51 00 13 00 14 06 00 B9 F8 A1 FF F2 00 A2 01 00 64 A4 03 00 01 64 00']
+ Sep 25 18:35:13 iPhone-Roman CommCenter[76] <Notice>: Sending notification <private>
+ Sep 25 18:35:13 iPhone-Roman mediaserverd(AudioToolbox)[180] <Notice>: 1438: clientPID 1567(MobileSafari), flag 0, ssid 1155
+ Sep 25 18:35:13 iPhone-Roman mediaserverd(AudioToolbox)[180] <Notice>: 1438: clientPID 1567(MobileSafari), flag 0, ssid 1156
+ Sep 25 18:35:13 iPhone-Roman bluetoothd[74] <Notice>: ShouldScan=1 AnyValidScanRequests=1 anyValidScanRequestInPaused=0 fObserverState=Active
+ Sep 25 18:35:13 iPhone-Roman bluetoothd[74] <Notice>: allowDups=0 agentAllowDups=0 activeScan=0
+ Sep 25 18:35:13 iPhone-Roman bluetoothd[74] <Notice>: allowDups=0 agentAllowDups=0 activeScan=0
+ Sep 25 18:35:13 iPhone-Roman bluetoothd[74] <Notice>: needToRestart=0
+ Sep 25 18:35:13 iPhone-Roman bluetoothd[74] <Notice>: ShouldScan=1 AnyValidScanRequests=1 anyValidScanRequestInPaused=0 fObserverState=Active
+ Sep 25 18:35:13 iPhone-Roman bluetoothd[74] <Notice>: allowDups=0 agentAllowDups=0 activeScan=0
+ Sep 25 18:35:13 iPhone-Roman bluetoothd[74] <Notice>: allowDups=0 agentAllowDups=0 activeScan=0
+ Sep 25 18:35:13 iPhone-Roman bluetoothd[74] <Notice>: needToRestart=0
+ Sep 25 18:35:14 iPhone-Roman UserEventAgent(AppleHDQGasGauge)[22] <Notice>: POSM disabled...
+ Sep 25 18:35:14 iPhone-Roman locationd[59] <Notice>: {"msg":"adapter details", "adapterDescription":"usb host", "batteryChargerType":"kChargerTypeUsb"}
+ Sep 25 18:35:14 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x0051 Bin=['01 1F 00 80 03 04 04 49 5B 51 00 13 00 14 06 00 BB F8 A4 FF A0 00 A2 01 00 64 A4 03 00 01 64 00']
+ Sep 25 18:35:14 iPhone-Roman CommCenter[76] <Notice>: Sending notification <private>
+ Sep 25 18:35:15 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0xe2(BSP) Req MsgId=0xe002 Bin=[<private>]
+ Sep 25 18:35:15 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0xe2(BSP) Resp MsgId=0xe002 Bin=[<private>]
+ Sep 25 18:35:15 iPhone-Roman backboardd(MultitouchHID)[56] <Notice>: [HID] [MT] dispatchEvent Dispatching event with 1 children, _eventMask=0x823 _childEventMask=0x822 Cancel=0 Touching=1 inRange=1
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Attempting to acquire assertion for MobileSafari:1567: <BKProcessAssertion: 0x104713590; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&EE4B6331F395>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Add assertion: <BKProcessAssertion: 0x104713590; id: 52-96DAD4C8-5444-4E0C-A3A2-EE4B6331F395; name: com.apple.UIKit.KeyboardManagement.message; state: active; reason: finishTask; duration: 180.0s> {
+    owner = <BSProcessHandle: 0x10440ac50; SpringBoard:52; valid: YES>;
+    flags = preventSuspend, preventThrottleDownUI, preventThrottleDownCPU, preventSuspendOnSleep;
+}
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Activate assertion: <BKProcessAssertion: 0x104713590; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&EE4B6331F395>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Client relinquished <BKProcessAssertion: 0x104713590; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&EE4B6331F395>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Deactivate assertion: <BKProcessAssertion: 0x104713590; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&EE4B6331F395>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Remove assertion: <BKProcessAssertion: 0x104713590; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&EE4B6331F395>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: -[BKAssertion dealloc] - <0x104713590>
+ Sep 25 18:35:15 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x0051 Bin=['01 1F 00 80 03 04 04 4A 5B 51 00 13 00 14 06 00 BE F8 A6 FF C0 00 A2 01 00 64 A4 03 00 01 64 00']
+ Sep 25 18:35:15 iPhone-Roman CommCenter[76] <Notice>: Sending notification <private>
+ Sep 25 18:35:15 iPhone-Roman backboardd(MultitouchHID)[56] <Notice>: [HID] [MT] dispatchEvent Dispatching event with 1 children, _eventMask=0x23 _childEventMask=0x803 Cancel=0 Touching=0 inRange=0
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Attempting to acquire assertion for MobileSafari:1567: <BKProcessAssertion: 0x104713590; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&98F5CE4F81D8>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Attempting to acquire assertion for SpringBoard:52: <BKProcessAssertion: 0x104748610; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&DE86B84F4AE6>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Add assertion: <BKProcessAssertion: 0x104713590; id: 1567-C9DC9EAE-B8EC-47F5-B975-98F5CE4F81D8; name: systemAnimationFence; state: active; reason: finishTask; duration: 180.0s> {
+    owner = <BSProcessHandle: 0x10473fb10; MobileSafari:1567; valid: YES>;
+    flags = preventSuspend, preventThrottleDownCPU, preventSuspendOnSleep;
+}
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Activate assertion: <BKProcessAssertion: 0x104713590; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&98F5CE4F81D8>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Add assertion: <BKProcessAssertion: 0x104748610; id: 52-103755E7-C963-46B3-A585-DE86B84F4AE6; name: com.apple.UIKit.KeyboardManagement.message; state: active; reason: finishTask; duration: 180.0s> {
+    owner = <BSProcessHandle: 0x10440ac50; SpringBoard:52; valid: YES>;
+    flags = preventSuspend, preventThrottleDownUI, preventThrottleDownCPU, preventSuspendOnSleep;
+}
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Activate assertion: <BKProcessAssertion: 0x104748610; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&DE86B84F4AE6>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on SpringBoard:52
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Attempting to acquire assertion for MobileSafari:1567: <BKProcessAssertion: 0x104768910; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&D3073108DE1F>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Client relinquished <BKProcessAssertion: 0x104713590; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&98F5CE4F81D8>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Add assertion: <BKProcessAssertion: 0x104768910; id: 52-B9F33946-55C1-46B1-96C1-D3073108DE1F; name: com.apple.UIKit.KeyboardManagement.message; state: active; reason: finishTask; duration: 180.0s> {
+    owner = <BSProcessHandle: 0x10440ac50; SpringBoard:52; valid: YES>;
+    flags = preventSuspend, preventThrottleDownUI, preventThrottleDownCPU, preventSuspendOnSleep;
+}
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Activate assertion: <BKProcessAssertion: 0x104768910; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&D3073108DE1F>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:15 iPhone-Roman MobileSafari(UIKitCore)[1567] <Notice>: deactivate generator <_UIKeyboardFeedbackGenerator: 0x106ef1430: prepared=0> with style: TurnOn; activationCount: 1 -> 0; styleActivationCount: 1 -> 0
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Deactivate assertion: <BKProcessAssertion: 0x104713590; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&98F5CE4F81D8>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Attempting to acquire assertion for SpringBoard:52: <BKProcessAssertion: 0x10442b450; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&EB93D2246E51>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Remove assertion: <BKProcessAssertion: 0x104713590; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&98F5CE4F81D8>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Add assertion: <BKProcessAssertion: 0x10442b450; id: 52-E6D96971-CA9D-476B-BF05-EB93D2246E51; name: systemAnimationFence; state: active; reason: finishTask; duration: 180.0s> {
+    owner = <BSProcessHandle: 0x10440ac50; SpringBoard:52; valid: YES>;
+    flags = preventSuspend, preventThrottleDownCPU, preventSuspendOnSleep;
+}
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Activate assertion: <BKProcessAssertion: 0x10442b450; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&EB93D2246E51>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on SpringBoard:52
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: -[BKAssertion dealloc] - <0x104713590>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Client relinquished <BKProcessAssertion: 0x104768910; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&D3073108DE1F>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Client relinquished <BKProcessAssertion: 0x10442b450; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&EB93D2246E51>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Deactivate assertion: <BKProcessAssertion: 0x104768910; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&D3073108DE1F>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Deactivate assertion: <BKProcessAssertion: 0x10442b450; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&EB93D2246E51>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Client relinquished <BKProcessAssertion: 0x104748610; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&DE86B84F4AE6>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Remove assertion: <BKProcessAssertion: 0x104768910; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&D3073108DE1F>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on SpringBoard:52
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Remove assertion: <BKProcessAssertion: 0x10442b450; "systemAnimationFence" (finishTask:180s); id:\M-b\M^@\M-&EB93D2246E51>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on SpringBoard:52
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Deactivate assertion: <BKProcessAssertion: 0x104748610; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&DE86B84F4AE6>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on SpringBoard:52
+ Sep 25 18:35:15 iPhone-Roman MobileSafari(UIKitCore)[1567] <Notice>: deactivate engine <_UIFeedbackSystemSoundEngine: 0x106e9ce20>, clientCount: 1 -> 0
+ Sep 25 18:35:15 iPhone-Roman MobileSafari(UIKitCore)[1567] <Notice>: _deactivateEngineIfPossible <_UIFeedbackSystemSoundEngine: 0x106e9ce20>, clientCount: 0, suspended: 0
+ Sep 25 18:35:15 iPhone-Roman MobileSafari(UIKitCore)[1567] <Notice>: _deactivateEngineIfPossible <_UIFeedbackSystemSoundEngine: 0x106e9ce20> tearedDown: 1
+ Sep 25 18:35:15 iPhone-Roman MobileSafari(UIKitCore)[1567] <Notice>: engine <_UIFeedbackSystemSoundEngine: 0x106e9ce20: state=4, numberOfClients=0, prewarmCount=0, _isSuspended=0> state changed: Running -> Inactive
+ Sep 25 18:35:15 iPhone-Roman mediaserverd(AudioToolbox)[180] <Notice>: 1438: clientPID 1567(MobileSafari), flag 0, ssid 1104
+ Sep 25 18:35:15 iPhone-Roman SpringBoard(KeyboardArbiter)[52] <Error>: [<_UIKeyboardArbiterHandle: 0x2807d17a0; PID 380: (null) <(null)>; hosting PIDs {(
+)}; level 0.000000; active NO [wants NO]; suppression 0>] could not take process assertion
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: -[BKAssertion dealloc] - <0x104768910>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: -[BKAssertion dealloc] - <0x10442b450>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Remove assertion: <BKProcessAssertion: 0x104748610; "com.apple.UIKit.KeyboardManagement.message" (finishTask:180s); id:\M-b\M^@\M-&DE86B84F4AE6>
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on SpringBoard:52
+ Sep 25 18:35:15 iPhone-Roman assertiond[62] <Notice>: -[BKAssertion dealloc] - <0x104748610>
+ Sep 25 18:35:16 iPhone-Roman CommCenter[76] <Notice>: #I FBSDisplayLayoutUpdateHandler: update start
+ Sep 25 18:35:16 iPhone-Roman CommCenter[76] <Notice>: #I FBSDisplayLayoutUpdateHandler: app <private> (UIApplicationElement 1 hasKeyboardFocus 0)
+ Sep 25 18:35:16 iPhone-Roman CommCenter[76] <Notice>: #I FBSDisplayLayoutUpdateHandler: 4. app got notification state: pid=1567 for <private>
+ Sep 25 18:35:16 iPhone-Roman assertiond[62] <Notice>: Created BKApplicationStateServerClient for [76:<private>] -> <private>
+ Sep 25 18:35:16 iPhone-Roman useractivityd[220] <Notice>: DETERMINE: A9F61442-6A80-4E06-97C4-2064C7864E93/<private> as the current item-to-advertise.
+ Sep 25 18:35:16 iPhone-Roman assertiond[62] <Notice>: Removed BKApplicationStateServerClient for [76:<private>] -> <private>
+ Sep 25 18:35:16 iPhone-Roman sharingd[57] <Notice>: SystemUI changed: 0x0 -> 0x0
+ Sep 25 18:35:16 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0xe7(ELQM) Ind MsgId=0x0002 Bin=[<private>]
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: cell_server_connection_callback notification kCTRadioEnhancedLinkQualityNotification info {
+    kCTRadioEnhancedLinkQualityNotificationData = <02020000 00>;
+    kCTRadioEnhancedLinkQualityNotificationType = 16;
+}
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: kCTRadioEnhancedLinkQualityNotification payload <02020000 00>
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: eLQM: Updated cell states (payload = <02020000 00>): (LQM = 100, RRC = 0, INTF = 1)
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: eLQM: Posting RRC change notification with label = kNotificationCellLinkStateChange, state = 0, bitmask = 2, info = {
+    Detail = 0;
+    State = 0;
+}
+ Sep 25 18:35:16 iPhone-Roman CommCenter[76] <Notice>: Sending notification <private>
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: RRC State change
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102b2ae70 foreground: 1 primary: 0 for noi: NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:0
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: New RRC 0 when previous 1 from pdp_ip0, epoch interface pdp_ip0
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: NOICLIENT <0x102aa7490> observed discretionaryTrafficInvited of object NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:0, partial update to pid: 52, change: {
+    kind = 1;
+    new = 0;
+}
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102a8ef50 (voided)
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: NOICLIENT <0x102aa8210> observed discretionaryTrafficInvited of object NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:0, partial update to pid: 140, change: {
+    kind = 1;
+    new = 0;
+}
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x106002640 (voided)
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: NOICLIENT <0x102a2c1a0> observed discretionaryTrafficInvited of object NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:0, partial update to pid: 36, change: {
+    kind = 1;
+    new = 0;
+}
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102a8ef50 (voided)
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: NOICLIENT <0x102a2e8d0> observed discretionaryTrafficInvited of object NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:0, partial update to pid: 161, change: {
+    kind = 1;
+    new = 0;
+}
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102a8ef50 (voided)
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: NOICLIENT <0x102a5b530> observed discretionaryTrafficInvited of object NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:0, partial update to pid: 99, change: {
+    kind = 1;
+    new = 0;
+}
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x106002640 (voided)
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: RRC Update to OFF. mach time: 1217367966340  <0x102b2ae70> (NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:0)
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>:  _lastDisconnectTimestamp: 1217367966340
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102b2ae70 foreground: 1 primary: 0 for noi: NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:0
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: AWD RRC Metric: noi.isAny with no foregroundActivity flag became OFF (plugged in)
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102b58c80 foreground: 1 primary: 0 for noi: NOI: v:0 type:Cell, isAny:no, isBuiltin:yes, loi:1, flags:0
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102b34170 foreground: 1 primary: 0 for noi: NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:1
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102b32710 foreground: 1 primary: 0 for noi: NOI: v:0 type:Cell, isAny:no, isBuiltin:yes, loi:0, flags:0
+ Sep 25 18:35:16 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: RRC ioctl sets 0 for interface pdp_ip0
+ Sep 25 18:35:16 iPhone-Roman dasd(DuetActivitySchedulerDaemon)[97] <Notice>: Trigger: <private> is now [<private>]
+ Sep 25 18:35:16 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0xe2(BSP) Ind MsgId=0xe006 Bin=[<private>]
+ Sep 25 18:35:16 iPhone-Roman CommCenter(libBasebandManager.dylib)[76] <Notice>: #I Sending <private> to <private> at 1537889716286
+ Sep 25 18:35:16 iPhone-Roman CommCenter(libBasebandManager.dylib)[76] <Notice>: #I <private>
+ Sep 25 18:35:16 iPhone-Roman CommCenter[76] <Notice>: #I received event kEventCTCellularTrasmitState
+ Sep 25 18:35:16 iPhone-Roman CommCenter[76] <Notice>: #I contents <private>
+ Sep 25 18:35:16 iPhone-Roman locationd[59] <Notice>: {"msg":"Incoming message", "event":"activity", "name":"kCLConnectionMessageOnBodyDetection", "this":"0x107e75580", "registrationReceived":0}
+ Sep 25 18:35:16 iPhone-Roman locationd[59] <Notice>: Client /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter (0x107e75580) is unsubscribing to notification kCLConnectionMessageOnBodyDetection
+ Sep 25 18:35:16 iPhone-Roman locationd[59] <Notice>: #Warning Location connection invalid!
+ Sep 25 18:35:16 iPhone-Roman locationd[59] <Notice>: {"msg":"CLConnection::handleDisconnection", "event":"activity"}
+ Sep 25 18:35:16 iPhone-Roman locationd[59] <Notice>: Client /System/Library/Frameworks/CoreTelephony.framework/Support/CommCenter disconnected
+ Sep 25 18:35:16 iPhone-Roman locationd[59] <Notice>: CLGyroBiasEstimator,SPUEnabled,0,BuildingGYTT,0,NumClients,0
+ Sep 25 18:35:16 iPhone-Roman locationd[59] <Notice>: {"msg":"state transition", "event":"state_transition", "state":"DaemonClient", "id":"0x107e75580", "property":"lifecycle", "old":"0x107e75580", "new":"0x0"}
+ Sep 25 18:35:16 iPhone-Roman backboardd(AttentionAwareness)[56] <Notice>:              EventStatistics.m:48  :   50723.70276:  Info: 5 Digitizer since   50719.46828 (Tue Sep 25 18:35:12 2018)
+ Sep 25 18:35:16 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x22(COEX) Ind MsgId=0x0021 Bin=[<private>]
+ Sep 25 18:35:16 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:16 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x555b Bin=[<private>]
+ Sep 25 18:35:16 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x01(WDS) Ind MsgId=0x0001 Bin=['01 10 00 80 01 0C 04 22 08 01 00 04 00 18 01 00 01']
+ Sep 25 18:35:16 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x01(WDS) Ind MsgId=0x0001 Bin=['01 10 00 80 01 02 04 05 09 01 00 04 00 18 01 00 01']
+ Sep 25 18:35:16 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:16 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I handleWdsEventReportInd_sync: Received WDS Set Event Report Indications
+ Sep 25 18:35:16 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I processWdsTlvDormancyStatus: Dormancy status: kDormancyStatusDormant
+ Sep 25 18:35:16 iPhone-Roman CommCenter[76] <Notice>: #I setDormancy: from false to true
+ Sep 25 18:35:16 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x01(WDS) Req MsgId=0x0044 Bin=[<private>]
+ Sep 25 18:35:16 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I EventReportInd, dormancy status: kDormant
+ Sep 25 18:35:16 iPhone-Roman locationd[59] <Notice>: {"msg":"IMD: onTelephonyNotification", "valid":1, "isCacheValid":1, "gotUplinkFreq":1, "uplinkFreq(Hz)":"0.000000", "gotUplinkBw":1, "uplinkBw(Hz)":"0.000000"}
+ Sep 25 18:35:16 iPhone-Roman CommCenter[76] <Notice>: #I DormancyStatus event, success:true, status:kDormant
+ Sep 25 18:35:16 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x01(WDS) Resp MsgId=0x0044 Bin=[<private>]
+ Sep 25 18:35:16 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I sendWdsGetCurrentDataBearerTechReq_sync_block_invoke: Data Bearer Technology status: current network (2) rat mask (32) service option mask (0)
+ Sep 25 18:35:16 iPhone-Roman CommCenter[76] <Notice>: #I notifyDataBearer: dataMode kDataWirelessTechnologyLTE; fDormancy true; sending kRadioTransmitDCH(TxOff)
+ Sep 25 18:35:16 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x555b Bin=[<private>]
+ Sep 25 18:35:16 iPhone-Roman locationd[59] <Notice>: {"msg":"IMD: onTelephonyNotification", "valid":1, "isCacheValid":1, "gotUplinkFreq":1, "uplinkFreq(Hz)":"1720000000.000000", "gotUplinkBw":1, "uplinkBw(Hz)":"10000000.000000"}
+ Sep 25 18:35:16 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x555b Bin=[<private>]
+ Sep 25 18:35:16 iPhone-Roman locationd[59] <Notice>: {"msg":"IMD: onTelephonyNotification", "valid":1, "isCacheValid":1, "gotUplinkFreq":1, "uplinkFreq(Hz)":"1720000000.000000", "gotUplinkBw":1, "uplinkBw(Hz)":"10000000.000000"}
+ Sep 25 18:35:16 iPhone-Roman CommCenter[76] <Notice>: #N Add Frequency List Failed
+ Sep 25 18:35:16 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x22(COEX) Ind MsgId=0x0021 Bin=[<private>]
+ Sep 25 18:35:16 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:16 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:17 iPhone-Roman useractivityd(Sharing)[220] <Notice>: client process changing types to scan for to None
+ Sep 25 18:35:17 iPhone-Roman sharingd[57] <Notice>: Skipping request for enabled: YES, state: PoweredOn, shouldStart: NO, scanForCopyPaste: NO, scanForHandoff: NO
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x22(COEX) Ind MsgId=0x0021 Bin=[<private>]
+ Sep 25 18:35:18 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:18 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x22(COEX) Ind MsgId=0x0021 Bin=[<private>]
+ Sep 25 18:35:18 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:18 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x22(COEX) Ind MsgId=0x0021 Bin=[<private>]
+ Sep 25 18:35:18 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:18 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x22(COEX) Ind MsgId=0x0021 Bin=[<private>]
+ Sep 25 18:35:18 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:18 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x22(COEX) Ind MsgId=0x0021 Bin=[<private>]
+ Sep 25 18:35:18 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:18 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x22(COEX) Ind MsgId=0x0021 Bin=[<private>]
+ Sep 25 18:35:18 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x22(COEX) Ind MsgId=0x0021 Bin=[<private>]
+ Sep 25 18:35:18 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:18 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:18 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:18 iPhone-Roman dasd(DuetActivitySchedulerDaemon)[97] <Notice>: Attempting to suspend based on triggers: (     "com.apple.duetactivityscheduler.nwstatus.cell" )
+ Sep 25 18:35:18 iPhone-Roman dasd(DuetActivitySchedulerDaemon)[97] <Notice>: com.apple.message.searchableIndex.budgeted:F76D0C:[
+	{name: BatteryLevelPolicy, policyWeight: 1.000, response: {Decision: Can Proceed, Score: 0.35, Rationale: [{batteryLevel == 14 AND lowPowerModeEnabled == 1}]}}
+	{name: DeviceActivityPolicy, policyWeight: 10.000, response: {Decision: Can Proceed, Score: 0.23}}
+	{name: MemoryPressurePolicy, policyWeight: 5.000, response: {Decision: Can Proceed, Score: 0.50, Rationale: [{[memoryPressure]: Required:2.00, Observed:1.00},]}}
+ ] sumScores:24.615389, denominator:35.520000, FinalDecision: Can Proceed FinalScore: 0.693001}
+ Sep 25 18:35:18 iPhone-Roman dasd(DuetActivitySchedulerDaemon)[97] <Notice>: Ignoring trigger com.apple.duetactivityscheduler.nwstatus.cell because conditions are deteriorating
+ Sep 25 18:35:18 iPhone-Roman dasd(DuetActivitySchedulerDaemon)[97] <Notice>: Evaluating 0 activities based on triggers
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x555b Bin=[<private>]
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x5556 Bin=[<private>]
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x0024 Bin=[<private>]
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x004e Bin=[<private>]
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I Received sys info update from baseband
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I LTE system is present, processing it
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I Mapping the registration state to kRegisteredHome
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I Serving System: MCC: 255 MNC: 06 Registration Status: kRegisteredHome
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I kRatLTE system: CS attach - true
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I kRatLTE system: PS attach - true
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I kRatLTE system: Data mode - kLTE
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I kRatLTE Cell ID: <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I kRatLTE PLMN: 255-06
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I LTE Area code: <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Set MCC to 255
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Set MNC to 06
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Set PLMN to 255-06
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I 1. Ims Voice Support on LTE changed to kNotSupported
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I 1. VoLTE Switch: Using carrier default 1
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I 1. kCTEventCallCapabilitiesChanged.VoLTE - no changes
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Recieved LTE cell information in Serving System Update
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I Index: 0, MCC: 255, MNC: 06, Band info: 0, Area code: 23302, Cell ID: <private>, UARFCN: 0, PID: 0, Latitude: <private>, Longitude: <private>, Bandwidth: 0
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Changing registered network info:
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Not handling fLastVisiblePLMN update since value didn't change or PLMN is empty, <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I [kRatLTE, kLTE, kRegisteredHome]
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I Index: 0, MCC: 255, MNC: 06, Band info: 0, Area code: 23302, Cell ID: <private>, UARFCN: 0, PID: 0, Latitude: <private>, Longitude: <private>, Bandwidth: 0
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I [kRatLTE, kLTE, kRegisteredHome]
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I Index: 0, MCC: 255, MNC: 06, Band info: 0, Area code: 23302, Cell ID: <private>, UARFCN: 0, PID: 0, Latitude: <private>, Longitude: <private>, Bandwidth: 0
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Is device roaming: kNotRoaming, with overrides: kNotRoaming
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Key <private> is not present
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Network presence in Carrier Bundle: kKeyNotPresent, for key: <private>, for PLMN: 255-06
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I PLMN 255-06's presence in data roaming exception: kKeyNotPresent, In Home Country: True
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Intermediate result for is in home country: True
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Final result for is in home country: True
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I computeIsInHomeCountry: inHome=true, result=kNotRoaming
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I CS call not active, data mode is kLTE
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Handling network info update...
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Received serving system update with current RAT set to kRatLTE and current DataMode set to kLTE
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Serving cell has changed since cell monitor update: true, updating with the latest from Serving System Update
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I LTE cell changed
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #N Current operator does not support Network Time
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I <private>: false
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I <private>: <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #N Network Time is not supported by operator MCC: 255, MNC 06 and kRatLTE
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I <private>: true
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I handleRegisteredNetworkInfo_sync: RegisteredNetworkInfo
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Data for Roaming Info 3GPP is valid
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I <private>: 232984845
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Invalidating data Roaming Info 3GPP2
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I <private>: 23302
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Returning Cell ID: <private>, current RAT is set to kRatLTE
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Carrier Info, valid: true, needs submission: false
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I dataModeChanged: (change states): old raw = kLTE, adjusted=kLTE, actual=kLTE
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Returning Area code: <private>, current RAT is set to kRatLTE
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I reactivateAsserted_sync:  due to DataModeChanged force=false
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I [kRatLTE, kLTE, kRegisteredHome]
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I Index: 0, MCC: 255, MNC: 06, Band info: 0, Area code: 23302, Cell ID: <private>, UARFCN: 0, PID: 0, Latitude: <private>, Longitude: <private>, Bandwidth: 0
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I handleRegisteredNetworkInfo_sync: RegisteredNetworkInfo
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I [kRatLTE, kLTE, kRegisteredHome]
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I Index: 0, MCC: 255, MNC: 06, Band info: 0, Area code: 23302, Cell ID: <private>, UARFCN: 0, PID: 0, Latitude: <private>, Longitude: <private>, Bandwidth: 0
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I handleRegisteredNetworkInfo_sync: Change Item : kLteCellChanged
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I reactivationRequired: reactivation might be required BB, id=0, priority=3400
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Serving system cell refresh complete
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Received cell info update for kBaseband
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I LTE Serving Cells:
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I Index: 0, MCC: 255, MNC: 06, Band info: 7, Area code: 23302, Cell ID: <private>, UARFCN: 3150, PID: 81, Latitude: <private>, Longitude: <private>, Bandwidth: 7
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I UARFCN: 1300
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I handleCellChanged_sync: DataMode = kLTE, RF Band Type = FDD
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: Sending notification <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: Device location info :- LAC <private> CELL ID:<private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I PCI: 246
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRP: 4294966272
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRQ: 4294967076
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I UARFCN: 1300
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I getIMSNetworkInterface: network interface: <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Roaming Info 3GPP, valid: true, needs submission: false
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I PCI: 403
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Roaming Info 3GPP2, valid: false, needs submission: false
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRP: 4294966271
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRQ: 4294967111
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I UARFCN: 3425
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I network interface names: { <private> }
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libSystemDetermination.dylib)[76] <Notice>: #I fillNetworkAccessInfo_sync: <private>: IWLAN Access Type = <private> Access Info = <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libSystemDetermination.dylib)[76] <Notice>: #I createUpdatedNetworkServices: Updated IMS Network Services information: appId= 255, services= None, context= false, iface= <private>, wifi= false
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I prepareToReactivate: can reactivate: t(OK )
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I sendAccessNetworkInfoUpdate_sync: Sent Access IMS Network Services Update request (services=0)
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I PCI: 81
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I reactivateAsserted_sync: trying to reactivate Internet.1
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRP: 4294966197
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRQ: 4294967233
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I UARFCN: 3425
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I PCI: 83
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRP: 4294966081
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRQ: 4294967118
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I UARFCN: 3150
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I PCI: 81
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRP: 4294966236
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I activateConnection: activateConnection called in kDataConnectionStateActive no need to do anything (doNotPostIfAlreadyActive false)
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRQ: 4294967226
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I UARFCN: 3150
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I PCI: 190
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRP: 4294966098
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I DATA.DATA.Collocation:0:: checkRank: fPdpId: 0, highestRank: kDefault, defaultRank: true
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRQ: 4294967119
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I UARFCN: 3150
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I PCI: 83
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRP: 4294966094
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRQ: 4294967085
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I connectionStateChange: with params= 0, 2, 1 (0x1) [I], dataMode = kLTE
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Cell has changed
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Cell 1:
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I DATA.DATA.Collocation:0:: checkRank: fPdpId: 0, highestRank: kDefault, defaultRank: true
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I Index: 0, MCC: 255, MNC: 06, Band info: 3, Area code: 23302, Cell ID: <private>, UARFCN: 1300, PID: 402, Latitude: <private>, Longitude: <private>, Bandwidth: 3
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I connectionStateChange: with params= 0, 2, 1 (0x1) [I], dataMode = kLTE
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Cell 2:
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I Index: 0, MCC: 255, MNC: 06, Band info: 7, Area code: 23302, Cell ID: <private>, UARFCN: 3150, PID: 81, Latitude: <private>, Longitude: <private>, Bandwidth: 7
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I sendActivationEvent: We are not posting external event because the context state 2 is different from the connection state 0
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I LTE cell changed
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I <private>: false
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I connectionStateChange: with params= 0, 0, 16 (0x10) [W], dataMode = kLTE
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I sendActivationEvent: We are not posting external event because the context state 2 is different from the connection state 0
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I connectionStateChange: with params= 0, 0, 32 (0x20) [w], dataMode = kLTE
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I recalculateCA: forceSend=false, level=0, size=4, reason = <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I <private>: <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I <private>: true
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: #ctcl,#ci,cellListSize,<private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: @CellFlow, ctnotify, kCellInfoNotification, havedata, 1
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: #ctcl,#ci,fetch,cellListSize,<private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, convertCells, 8, neighbors, 1
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: #ctcl,#ci,fetch,cellListSize,<private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, convertCells, 8, neighbors, 1
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellFlow, selection, active(s/c), 0, 1, this(s/c), 0, 1, in, 8, valid, 1, serving, 1, compute, 1
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellFlow, compute, cells, 1, clients, 0, 0, last, 158.7, type, 6
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"#awd,handleCellInfoNotification", "inst":0, "RAT":"kRadioAccessTechnologyLTE", "MCC":<private>, "MNC":<private>, "SID":<private>, "NID":<private>}
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: #ctcl,#ci,fetch,cellListSize,<private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, convertCells, 8, neighbors, 1
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: #Warning CELL_LOC: LTE NO MATCH, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"#Actor cell info updated", "inst":0, "RAT":"kRadioAccessTechnologyLTE", "MCC":<private>, "MNC":<private>, "SID":<private>, "NID":<private>, "cell ID":<private>}
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: #ctcl,#ci,fetch,cellListSize,<private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, convertCells, 8, neighbors, 1
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I <private>: 232984845
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I <private>: 23302
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"#awd,handleCellInfoNotification", "inst":0, "RAT":"kRadioAccessTechnologyLTE", "MCC":<private>, "MNC":<private>, "SID":<private>, "NID":<private>}
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: @CellFlow, match, strong, tiles, rat, LTE, needsAls, 0
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I forceSend=false errorChanged=false availabilityChanged=false
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: Sending notification <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: Sending notification <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x0061 Bin=[<private>]
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I Received current PLMN indication from baseband
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I Received long name (<private>) short name (<private>) service provider name (<private>) and name source (kOPL)
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Using PLMN (255-06) from model
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: @CellFlow, counts, in, 1, sortIn, 1, sortOut, 1, shouldQuery, 0
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellFlow, fix, <private>, acc, <private>, tiles, strong
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: @ClxCell, Fix, 1, ll, <private>, <private>, acc, 2000.00, course, -1.0, key, <private>, type, 6
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: @CellLoc, tiledl, cells, 1, gsm, 0, cdma, 0, lte, 1
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: @CellFlow, outcome, fix
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellFlow, timer, extend, 300
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: <PCPersistentTimer: 0x107388c50> created <PCSimpleTimer: 0x107e2b0e0>
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: Started simple timer <PCSimpleTimer: 0x107e2b0e0> with fire date [2018-09-25 18:40:18 +0300]
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: <PCSimpleTimer: 0x107e2b0e0> created preventSleepTimer <PCDispatchTimer: 0x107358620> and fireTimer <PCDispatchTimer: 0x10730f2f0> on queue <OS_dispatch_queue_serial: PCSimpleTimer-timerQ>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: @ClxClient, Fix, 1, ll, <private>, <private>, acc, 2000.00, speed, <private>, course, <private>, type, 6
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: <PCInterfaceUsabilityMonitor: 0x10470e910> [WWAN](pdp_ip0): isInterfaceUsable? YES reachable YES linkQuality 100 isNetworkCaptive? NO
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: <PCPersistentTimer: 0x107388c50> calculating _earlyFireDate. powerStateDetectionSupported = YES = (detectionSupported(YES) && (wwanIsUp(YES) || ! internetReachable(YES)))
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: Last system wake date (2018-09-25 18:12:05 +0300) was longer than half of the timer duration, so setting minimum fire date to fire date.
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: Enabling power monitoring for <PCSimpleTimer: 0x107e2b0e0> - 8 timers
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: <PCPersistentTimer: 0x107388c50> Device is plugged in, overriding earlyFireProportion to be 1.0
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"#Stream Received notification", "notification":"CLLocationProvider_Type::kNotificationLocationBystander"}
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: <PCPersistentTimer: 0x107388c50> Calculated minimum fire date [2018-09-25 18:40:18 +0300] (100%) with fire date [2018-09-25 18:40:18 +0300], start date [2018-09-25 18:35:18 +0300], minimum early fire proportion 0.9, power state detection supported: yes, in high power state: no, early fire constant interval 0.000000
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"#Stream Stopping location for source", "source":"CLStreamingAwareLocationProviderStateMachine::kLocationSourceLocal"}
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"CLWifi1SystemLogic::apply", "event":"elapsed", "begin_mach":1217423241491, "end_mach":1217423246454, "elapsed_s":"0.000206792", "event":"Location::Leech", "now_s":"559582518.565966010"}
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"#Stream Received notification", "notification":"CLLocationProvider_Type::kNotificationLocationLeech"}
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"#Stream Stopping location for source", "source":"CLStreamingAwareLocationProviderStateMachine::kLocationSourceLocal"}
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: Sending location to client </System/Library/LocationBundles/Traffic.bundle>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: Sending location to client </System/Library/LocationBundles/CompassCalibration.bundle>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: Sending location to client </System/Library/LocationBundles/Routine.bundle>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: Sending location to client </System/Library/PrivateFrameworks/MobileWiFi.framework>
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: cell_server_connection_callback notification kCTRegistrationCellChangedNotification info {
+    kCTRegistrationGsmCellId = 232984845;
+    kCTRegistrationGsmLac = 23302;
+    kCTRegistrationInHomeCountry = 1;
+    kCTRegistrationIsFemtoCell = 0;
+    kCTRegistrationRadioAccessTechnology = kCTRegistrationRadioAccessTechnologyLTE;
+}
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: cell_server_connection_callback notification kCTRegistrationCellChangedNotification info {
+    kCTRegistrationGsmCellId = 232984845;
+    kCTRegistrationGsmLac = 23302;
+    kCTRegistrationInHomeCountry = 1;
+    kCTRegistrationIsFemtoCell = 0;
+    kCTRegistrationRadioAccessTechnology = kCTRegistrationRadioAccessTechnologyLTE;
+}
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: Sending location to client </System/Library/LocationBundles/NavdLocationBundleiOS.bundle>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: Sending location to client </System/Library/PrivateFrameworks/MobileWiFi.framework>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: Sending location to client </System/Library/LocationBundles/NavdLocationBundleiOS.bundle>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"updated kCTRegistrationInHomeCountry from", "notification":"kCTRegistrationCellChangedNotification", "fInHomeCountry":1}
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"updated kCTRegistrationInHomeCountry from", "notification":"kCTRegistrationCellChangedNotification", "fInHomeCountry":1}
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Not overriding the operator name for <private> and source kOPL
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x0061 Bin=[<private>]
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I Received current PLMN indication from baseband
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I Received long name (<private>) short name (<private>) service provider name (<private>) and name source (kOPL)
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Using PLMN (255-06) from model
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Not overriding the operator name for <private> and source kOPL
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: Client [<private>] (conn=0x12b12ef40) invoking <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: Sending reply for request "<private>" (conn=0x12b12ef40): <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: Client [<private>] (conn=0x12b12ef40) invoking <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: Sending reply for request "<private>" (conn=0x12b12ef40): <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libIPTelephony.dylib)[76] <Notice>: [ipt]: IPTelephonyManager: updateNetworkServices (0224B9FE-9648-11E6-AE22-56B6B6499611): servicesChanged= false contextUp= false isEmergency= false
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libIPTelephony.dylib)[76] <Notice>: [ipt]: IPTelephonyManager: updateNetworkServices: Access network has changed
+ Sep 25 18:35:18 iPhone-Roman SpringBoard[52] <Notice>: [SBTelephonyManager] _updateNetworkLocale: got updated country code: ua
+ Sep 25 18:35:18 iPhone-Roman SpringBoard[52] <Notice>: [SBTelephonyManager] _updateNetworkLocale: got updated country code: ua
+ Sep 25 18:35:18 iPhone-Roman SpringBoard[52] <Notice>: SBTelephonyManager: got last known network country code: ua
+ Sep 25 18:35:18 iPhone-Roman SpringBoard[52] <Notice>: SBTelephonyManager: got last known network country code: ua
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"#Actor handleInHomeCountryStatusLegacy", "inHomeCountry":1}
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"#Actor handleInHomeCountryStatusLegacy", "inHomeCountry":1}
+ Sep 25 18:35:18 iPhone-Roman wifid(CoreLocation)[42] <Notice>: delivering locations to client's delegate
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libIPTelephony.dylib)[76] <Notice>: [sip.stack]: SipStack 0224B9FE-9648-11E6-AE22-56B6B6499611: updating access network info to [type: 3GPP-E-UTRAN-FDD, info: xXx, timestamp: Tue Sep 25 18:35:18 2018]
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libIPTelephony.dylib)[76] <Notice>: [sip.stack]: SipStack 0224B9FE-9648-11E6-AE22-56B6B6499611: updating camped access network info to [type: 3GPP-E-UTRAN-FDD, info: xXx, timestamp: Tue Sep 25 18:35:18 2018]
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libIPTelephony.dylib)[76] <Notice>: [sip.stack]: SipStack 0224B9FE-9648-11E6-AE22-56B6B6499611: not on WiFi. Clearing last access network info.
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libIPTelephony.dylib)[76] <Notice>: [ipsec]: IPSecurityManager: Not updating interfaces - security policy not initialized
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Req MsgId=0x5556 Bin=[<private>]
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: @CellService, ctupdate, list, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: Invalidating timer <PCPersistentTimer: 0x1047bb810>
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: Invalidating simple timer <PCSimpleTimer: 0x107dcae20>
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: Disabling power monitoring for <PCSimpleTimer: 0x107dcae20> - 7 timers
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"IMD: onTelephonyNotification", "valid":1, "isCacheValid":1, "gotUplinkFreq":1, "uplinkFreq(Hz)":"2540000000.000000", "gotUplinkBw":1, "uplinkBw(Hz)":"10000000.000000"}
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I RAT is kRatUnknown for Current, but it is being ignored
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Timestamping current TAC <private> with 37570756
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Resp MsgId=0x5556 Bin=[<private>]
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #I Received cell info update for kServingSystem
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I LTE Serving Cells:
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I Index: 0, MCC: 255, MNC: 06, Band info: 7, Area code: 23302, Cell ID: <private>, UARFCN: 3150, PID: 81, Latitude: <private>, Longitude: <private>, Bandwidth: 7
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I UARFCN: 1300
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I PCI: 246
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRP: 4294966272
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRQ: 4294967076
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I UARFCN: 1300
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I PCI: 403
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRP: 4294966271
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRQ: 4294967111
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I UARFCN: 3425
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I PCI: 81
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRP: 4294966197
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRQ: 4294967233
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I UARFCN: 3425
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I PCI: 83
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRP: 4294966081
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRQ: 4294967118
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I UARFCN: 3150
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I PCI: 81
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRP: 4294966236
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRQ: 4294967226
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I UARFCN: 3150
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I PCI: 190
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRP: 4294966098
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRQ: 4294967119
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I UARFCN: 3150
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I PCI: 83
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRP: 4294966094
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libCommCenterBase.dylib)[76] <Notice>: #I RSRQ: 4294967085
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: CT cell change notification on interface = pdp_ip0, roaming = 1
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: @CellService, ctupdate, list, <private>
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: Sending notification <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: #ctcl,#ci,cellListSize,<private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: @CellFlow, ctnotify, kCellInfoNotification, havedata, 1
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: #ctcl,#ci,fetch,cellListSize,<private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, convertCells, 8, neighbors, 1
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: #ctcl,#ci,fetch,cellListSize,<private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, convertCells, 8, neighbors, 1
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: #ctcl,#ci,fetch,cellListSize,<private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, convertCells, 8, neighbors, 1
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellFlow, selection, active(s/c), 0, 1, this(s/c), 0, 1, in, 8, valid, 1, serving, 1, compute, 1
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellFlow, compute, cells, 1, clients, 0, 0, last, 0.1, type, 6
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"#awd,handleCellInfoNotification", "inst":0, "RAT":"kRadioAccessTechnologyLTE", "MCC":<private>, "MNC":<private>, "SID":<private>, "NID":<private>}
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: #ctcl,#ci,fetch,cellListSize,<private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: #Warning CELL_LOC: LTE NO MATCH, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, convertCells, 8, neighbors, 1
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: @CellFlow, match, strong, tiles, rat, LTE, needsAls, 0
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: @CellFlow, counts, in, 1, sortIn, 1, sortOut, 1, shouldQuery, 0
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellFlow, fix, <private>, acc, <private>, tiles, strong
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"#awd,handleCellInfoNotification", "inst":0, "RAT":"kRadioAccessTechnologyLTE", "MCC":<private>, "MNC":<private>, "SID":<private>, "NID":<private>}
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: @ClxCell, Fix, 1, ll, <private>, <private>, acc, 2000.00, course, -1.0, key, <private>, type, 6
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: @CellLoc, tiledl, cells, 1, gsm, 0, cdma, 0, lte, 1
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: @CellFlow, outcome, fix
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellFlow, timer, extend, 300
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: @ClxClient, Fix, 1, ll, <private>, <private>, acc, 2000.00, speed, <private>, course, <private>, type, 6
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: <PCPersistentTimer: 0x107e5b450> created <PCSimpleTimer: 0x107e439e0>
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: Started simple timer <PCSimpleTimer: 0x107e439e0> with fire date [2018-09-25 18:40:18 +0300]
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"#Stream Received notification", "notification":"CLLocationProvider_Type::kNotificationLocationBystander"}
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: CellLoc, adding, <private>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"#Actor cell info updated", "inst":0, "RAT":"kRadioAccessTechnologyLTE", "MCC":<private>, "MNC":<private>, "SID":<private>, "NID":<private>, "cell ID":<private>}
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: <PCSimpleTimer: 0x107e439e0> created preventSleepTimer <PCDispatchTimer: 0x1073e47c0> and fireTimer <PCDispatchTimer: 0x107e06ef0> on queue <OS_dispatch_queue_serial: PCSimpleTimer-timerQ>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"#Stream Stopping location for source", "source":"CLStreamingAwareLocationProviderStateMachine::kLocationSourceLocal"}
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"#Stream Received notification", "notification":"CLLocationProvider_Type::kNotificationLocationLeech"}
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: <PCInterfaceUsabilityMonitor: 0x10470e910> [WWAN](pdp_ip0): isInterfaceUsable? YES reachable YES linkQuality 100 isNetworkCaptive? NO
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: <PCPersistentTimer: 0x107e5b450> calculating _earlyFireDate. powerStateDetectionSupported = YES = (detectionSupported(YES) && (wwanIsUp(YES) || ! internetReachable(YES)))
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: Last system wake date (2018-09-25 18:12:05 +0300) was longer than half of the timer duration, so setting minimum fire date to fire date.
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"#Stream Stopping location for source", "source":"CLStreamingAwareLocationProviderStateMachine::kLocationSourceLocal"}
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: Sending location to client </System/Library/LocationBundles/Traffic.bundle>
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: <PCPersistentTimer: 0x107e5b450> Device is plugged in, overriding earlyFireProportion to be 1.0
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: <PCPersistentTimer: 0x107e5b450> Calculated minimum fire date [2018-09-25 18:40:18 +0300] (100%) with fire date [2018-09-25 18:40:18 +0300], start date [2018-09-25 18:35:18 +0300], minimum early fire proportion 0.9, power state detection supported: yes, in high power state: no, early fire constant interval 0.000000
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"CLWifi1SystemLogic::apply", "event":"elapsed", "begin_mach":1217424751566, "end_mach":1217424755953, "elapsed_s":"0.000182792", "event":"Location::Leech", "now_s":"559582518.628883958"}
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: Sending location to client </System/Library/LocationBundles/CompassCalibration.bundle>
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: Enabling power monitoring for <PCSimpleTimer: 0x107e439e0> - 8 timers
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: Sending location to client </System/Library/LocationBundles/Routine.bundle>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: Sending location to client </System/Library/PrivateFrameworks/MobileWiFi.framework>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: Sending location to client </System/Library/LocationBundles/NavdLocationBundleiOS.bundle>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: Sending location to client </System/Library/PrivateFrameworks/MobileWiFi.framework>
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: Sending location to client </System/Library/LocationBundles/NavdLocationBundleiOS.bundle>
+ Sep 25 18:35:18 iPhone-Roman wifid(CoreLocation)[42] <Notice>: delivering locations to client's delegate
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: Invalidating timer <PCPersistentTimer: 0x107388c50>
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: Invalidating simple timer <PCSimpleTimer: 0x107e2b0e0>
+ Sep 25 18:35:18 iPhone-Roman locationd(PersistentConnection)[59] <Notice>: Disabling power monitoring for <PCSimpleTimer: 0x107e2b0e0> - 7 timers
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: Radio technology set to LTE on network type 2
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: Cell network change on pdp_ip0, carrier name = <private>, cell id = <private>, primary key = <private>, roaming = 1
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: _primaryKeyChange new (<private>,pdp_ip0) on currentCell, roaming,  old (<private>,pdp_ip0)
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: retiring incumbent: Epoch: 0x102b98950 on pdp_ip0, new (<private>,pdp_ip0) vs old (<private>,pdp_ip0)
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102b98950 retired epoch on pdp_ip0 for <private>: stay time accrued = 158.725959, total epochs = 2, LQM transitions = 30.000000,	low LQM stay = 37377.855771, low RSSI stay = 0.000000, data stalls total: 0.000000, adminDisables total: 0.000000, defroutes 0x102bee2e0 0x0, loi: 260
+ Sep 25 18:35:18 iPhone-Roman navd(CoreLocation)[70] <Notice>: delivering locations to client's delegate
+ Sep 25 18:35:18 iPhone-Roman navd(CoreLocation)[70] <Notice>: delivering locations to client's delegate
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: LOI: epoch with primary key = <private> inherits persisted value (loi=260)
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102bc7a90 created epoch for <private>, total epochs=3
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: Enabling support for IPv4, interface = pdp_ip0, primaryKey = <private>
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: Created default route on pdp_ip0, family = 2, src = 0x102aa9ff0, index = 2
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: inserting new epoch (0x102bc7a90) primary key: <private>, def routes count: 3, lqm: 100
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: Determine if pdp_ip0 has DNS server
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: no way to know that pdp_ip0 has DNS server
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: Computing loaded LQM for newly created Epoch on interface pdp_ip0, LQM(old/new) = (100/100)
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: Loaded LQM filters: data stalls = 0.000000, radio = LTE, LIM(UL/DL) = (1/0)
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: Depressing UL loaded LQM to 50
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: loaded LQM last updated on interface type 2 at 1537889718665.528076, delta t = 144239.589844 ms
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: ioctl sets overall LIM state 1 with UL/DL (1/0) for interface pdp_ip0
+ Sep 25 18:35:18 iPhone-Roman symptomsd(WirelessDiagnostics)[105] <Notice>: client.trigger:#N Random sample for 0x300010 is skip
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: Cell epoch change
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102b59640 event: kNotificationNewConnectivityEpochCell, noi: NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:0, fastpath, current elig: 1, new elig: 1
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102b59640 event: kNotificationNewConnectivityEpochCell, noi: NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:1, fastpath, current elig: 1, new elig: 1
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: Enter, epochs {
+    currentCell = "Epoch: 0x102bc7a90 on pdp_ip0";
+    currentWiFi = "Epoch: 0x102a5cbb0 on en0";
+}, lastEpochRemoved 0x0   idleExitSuppressed 1
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: Exit, epochs {
+    currentCell = "Epoch: 0x102bc7a90 on pdp_ip0";
+    currentWiFi = "Epoch: 0x102a5cbb0 on en0";
+}, lastEpochRemoved 0x0   idleExitSuppressed 1
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: CT cell change notification on interface = pdp_ip0, roaming = 1
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: Radio technology set to LTE on network type 2
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: Cell network change on pdp_ip0, carrier name = <private>, cell id = <private>, primary key = <private>, roaming = 1
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: _primaryKeyChange new (<private>,pdp_ip0) on currentCell, roaming,  old (<private>,pdp_ip0)
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: duplicate call, bailing out
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: progress on pdp_ip0 for <private>: deltaBytesIn: 2253.000000
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: route source 0x102aa9ff0 description callback has snapshot <private>
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: Establishing a partial for IPv4 on cell
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: Establishing _partial on cell
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: Initializing rtt avg and rtt var
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102b59640 event: kNotificationNewConnectivityEpochCell, noi: NOI: v:0 type:Cell, isAny:no, isBuiltin:yes, loi:1, flags:0, slowpath, current elig: 0, new elig: 0
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102b59640 event: kNotificationNewConnectivityEpochCell, noi: NOI: v:0 type:Cell, isAny:no, isBuiltin:yes, loi:0, flags:0, slowpath, current elig: 1, new elig: 1
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: default route 0x102bee2e0 is closing, epoch 0x102b98950 with v4 route 0x0, v6 route 0x0
+ Sep 25 18:35:18 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102b98950 collecting epoch, total epochs=2
+ Sep 25 18:35:18 iPhone-Roman aggregated(CoreLocation)[1383] <Notice>: {"msg":"CLCopyAppsUsingLocation", "event":"activity"}
+ Sep 25 18:35:18 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x555b Bin=[<private>]
+ Sep 25 18:35:18 iPhone-Roman CommCenter[76] <Notice>: #N Add Frequency List Failed
+ Sep 25 18:35:18 iPhone-Roman locationd[59] <Notice>: {"msg":"IMD: onTelephonyNotification", "valid":1, "isCacheValid":1, "gotUplinkFreq":1, "uplinkFreq(Hz)":"2540000000.000000", "gotUplinkBw":1, "uplinkBw(Hz)":"10000000.000000"}
+ Sep 25 18:35:19 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x0051 Bin=['01 1F 00 80 03 04 04 50 5B 51 00 13 00 14 06 00 AE F8 95 FF 84 00 A2 01 00 64 A4 03 00 01 64 00']
+ Sep 25 18:35:19 iPhone-Roman CommCenter[76] <Notice>: Sending notification <private>
+ Sep 25 18:35:20 iPhone-Roman backboardd(CoreMotion)[56] <Notice>: Notify from, Portrait -> FaceUp
+ Sep 25 18:35:20 iPhone-Roman backboardd(CoreMotion)[56] <Notice>: Received orientation. (Portrait to FaceUp) Timestamp 50728.020166
+ Sep 25 18:35:20 iPhone-Roman SpringBoard(CoreMotion)[52] <Notice>: Notify from, Portrait -> FaceUp
+ Sep 25 18:35:20 iPhone-Roman backboardd(CoreMotion)[56] <Notice>: Updating client handler: Orientation FaceUp, Callback mode: -1
+ Sep 25 18:35:20 iPhone-Roman backboardd[56] <Notice>: Updating device orientation from CoreMotion to: faceUp (5)
+ Sep 25 18:35:20 iPhone-Roman backboardd[56] <Notice>: Effective device orientation changed to: faceUp (5)
+ Sep 25 18:35:20 iPhone-Roman SpringBoard[52] <Notice>: Got a device orientation change, forwarding faceUp (5) to apps
+ Sep 25 18:35:20 iPhone-Roman SpringBoard(FrontBoard)[52] <Notice>: [com.apple.mobilesafari] Sending scene action [SceneLifecycleEventOnly] through WorkspaceServer: 0x2815c8c80
+ Sep 25 18:35:20 iPhone-Roman assertiond[62] <Notice>: [SpringBoard:52] Attempting to acquire assertion for MobileSafari:1567: <BKProcessAssertion: 0x104442060; "Deliver Message" (suspend:10s); id:\M-b\M^@\M-&FC72A2720F20>
+ Sep 25 18:35:20 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Add assertion: <BKProcessAssertion: 0x104442060; id: 52-C53EB374-0B12-4B8C-8751-FC72A2720F20; name: "Deliver Message"; state: active; reason: suspend; duration: 10.0s> {
+    owner = <BSProcessHandle: 0x10440ac50; SpringBoard:52; valid: YES>;
+    flags = preventSuspend, preventThrottleDownUI, preventThrottleDownCPU, preventSuspendOnSleep;
+}
+ Sep 25 18:35:20 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Activate assertion: <BKProcessAssertion: 0x104442060; "Deliver Message" (suspend:10s); id:\M-b\M^@\M-&FC72A2720F20>
+ Sep 25 18:35:20 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Setting jetsam priority to 10 [0x10308]
+ Sep 25 18:35:20 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:20 iPhone-Roman assertiond[62] <Notice>: Client relinquished <BKProcessAssertion: 0x104442060; "Deliver Message" (suspend:10s); id:\M-b\M^@\M-&FC72A2720F20>
+ Sep 25 18:35:20 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Deactivate assertion: <BKProcessAssertion: 0x104442060; "Deliver Message" (suspend:10s); id:\M-b\M^@\M-&FC72A2720F20>
+ Sep 25 18:35:20 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Setting jetsam priority to 10 [0x10108]
+ Sep 25 18:35:20 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:20 iPhone-Roman assertiond[62] <Notice>: [MobileSafari:1567] Remove assertion: <BKProcessAssertion: 0x104442060; "Deliver Message" (suspend:10s); id:\M-b\M^@\M-&FC72A2720F20>
+ Sep 25 18:35:20 iPhone-Roman assertiond[62] <Notice>: Updating PowerAssertion on MobileSafari:1567
+ Sep 25 18:35:20 iPhone-Roman assertiond[62] <Notice>: -[BKAssertion dealloc] - <0x104442060>
+ Sep 25 18:35:21 iPhone-Roman wifid[42] <Notice>: WiFi:[559582521.161495]: __WiFiDeviceManagerLQMEventCallback: null snrNumRef
+ Sep 25 18:35:22 iPhone-Roman backboardd(MultitouchHID)[56] <Notice>: [HID] [MT] MTSimpleHIDManager::handleInputDetectionState Dispatching proximity event [0x200]
+ Sep 25 18:35:22 iPhone-Roman backboardd(CoreBrightness)[56] <Notice>: ALS: MITIGATION: Cancel color ramp on touch mitigation
+ Sep 25 18:35:22 iPhone-Roman biometrickitd(CoreMotion)[115] <Notice>: Gesture notification: 2(Dismissed), Mode:Normal, Start:FaceUp, End:Level, HostAwake, 1, Inferred:0
+ Sep 25 18:35:22 iPhone-Roman biometrickitd(CoreMotion)[115] <Notice>: Gesture state notified,Dismissed,currentTime,50730.294992
+ Sep 25 18:35:23 iPhone-Roman backboardd[56] <Notice>: touch up event count:6 starting 25.7875s ago lastPID:1567 lastContextID:770643B1
+ Sep 25 18:35:24 iPhone-Roman backboardd(MultitouchHID)[56] <Notice>: [HID] [MT] MTSimpleHIDManager::handleInputDetectionState Dispatching proximity event [0x0]
+ Sep 25 18:35:25 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x0051 Bin=['01 1F 00 80 03 04 04 51 5B 51 00 13 00 14 06 00 A5 F6 89 FF 38 00 A2 01 00 64 A4 03 00 01 32 00']
+ Sep 25 18:35:25 iPhone-Roman CommCenter[76] <Notice>: Sending notification <private>
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(CFNetwork)[1564] <Notice>: TIC TCP Conn Cancel [3:0x105112390]
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: [C3 Hostname#b6f9a12e:443 tcp, url hash: efbd848f, traffic class: 200, tls] cancel
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: [C3 Hostname#b6f9a12e:443 tcp, url hash: efbd848f, traffic class: 200, tls] cancelled
+	[C3.1 <private> 192.168.0.100:57265<->IPv4#2aa6f5b0:443]
+	Connected Path: satisfied (Path is satisfied), interface: en0, ipv4, dns
+	Duration: 31.080s, DNS @0.000s took 0.012s, TCP @0.014s took 0.086s, TLS took 0.213s
+	bytes in/out: 10540/2121, packets in/out: 9/4, rtt: 0.082s, retransmitted packets: 0, out-of-order packets: 0
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: 0.000s [C3 <private> Hostname#b6f9a12e:443 resolver] path:start
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: 0.000s [C3 <private> Hostname#b6f9a12e:443 resolver] path:satisfied
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: 0.000s [C3 <private> Hostname#b6f9a12e:443 resolver] resolver:start_dns
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: 0.012s [C3 <private> Hostname#b6f9a12e:443 resolver] resolver:receive_dns
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: 0.012s [C3.1 <private> 192.168.0.100:57265<->IPv4#2aa6f5b0:443 channel-flow] path:start
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: 0.012s [C3.1 <private> 192.168.0.100:57265<->IPv4#2aa6f5b0:443 channel-flow] path:satisfied
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: 0.012s [C3.1 <private> 192.168.0.100:57265<->IPv4#2aa6f5b0:443 channel-flow] flow:start_nexus
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: 0.013s [C3.1 <private> 192.168.0.100:57265<->IPv4#2aa6f5b0:443 channel-flow] flow:receive_nexus
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: 0.014s [C3.1 <private> 192.168.0.100:57265<->IPv4#2aa6f5b0:443 channel-flow] flow:start_connect
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: 0.100s [C3.1 <private> 192.168.0.100:57265<->IPv4#2aa6f5b0:443 channel-flow] flow:finish_transport
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: 0.100s [C3 <private> Hostname#b6f9a12e:443 resolver] flow:finish_transport
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: 0.313s [C3.1 <private> 192.168.0.100:57265<->IPv4#2aa6f5b0:443 channel-flow] flow:finish_connect
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: 0.313s [C3 <private> Hostname#b6f9a12e:443 resolver] flow:finish_connect
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: 0.313s [C3.1 <private> 192.168.0.100:57265<->IPv4#2aa6f5b0:443 channel-flow] flow:changed_viability
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: 0.313s [C3 <private> Hostname#b6f9a12e:443 resolver] flow:changed_viability
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: 31.080s [C3] path:cancel
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libusrtcp.dylib)[1564] <Notice>: nw_protocol_tcp_log_summary [C3.1:3] 
+	[<private> <private>:57265<-><private>:443]
+	Init: 1, Conn_Time: 86.478ms, Syn's: 1, WR_T: 0/0, RD_T: 0/0, TFO: 0/0/0, ECN: 0/1/1, TS: 1
+	RTT_Cache: none, rtt_upd: 4, rtt: 82.875ms, rtt_var: 22.375ms rtt_nc: 82.875ms, rtt_var_nc: 22.375ms
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: nw_endpoint_flow_protocol_disconnected [C3.1 IPv4#2aa6f5b0:443 cancelled channel-flow (null)] Output protocol disconnected
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(libnetwork.dylib)[1564] <Notice>: nw_connection_report_state_with_handler_locked [C3] reporting state cancelled
+ Sep 25 18:35:25 iPhone-Roman syncdefaultsd(CFNetwork)[1564] <Notice>: TIC TCP Conn Destroyed [3:0x105112390]
+ Sep 25 18:35:25 iPhone-Roman CommCenter[76] <Notice>: #I bars changed! old bars 4, new bars 2
+ Sep 25 18:35:25 iPhone-Roman CommCenter[76] <Notice>: Sending notification <private>
+ Sep 25 18:35:25 iPhone-Roman SpringBoard[52] <Notice>: [SBTelephonyManager Slot 1]: updated signal strength -- manager: <SBTelephonyManager: 0x280e89930> {
+    dualSIMEnabled = NO;
+    slot1SubscriptionInfo = <SBMutableTelephonySubscriptionInfo: 0x281be2880> {
+        SIMStatus = kCTSIMSupportSIMStatusReady;
+        registrationStatus = registered;
+        dataConnectionType = wifiConnection;
+        isProvidingDataConnection = YES;
+        operatorName = lifecell;
+    };
+    slot2SubscriptionInfo = <SBMutableTelephonySubscriptionInfo: 0x281be2980> {
+        SIMStatus = 0x0;
+        registrationStatus = notRegistered;
+        dataConnectionType = noConnection;
+        isProvidingDataConnection = NO;
+        operatorName = 0x0;
+    };
+    usingWifi = YES;
+}
+ Sep 25 18:35:25 iPhone-Roman CommCenter[76] <Notice>: Client [<private>] (conn=0x12b12ef40) invoking <private>
+ Sep 25 18:35:25 iPhone-Roman CommCenter[76] <Notice>: Sending reply for request "<private>" (conn=0x12b12ef40): <private>
+ Sep 25 18:35:25 iPhone-Roman SpringBoard[52] <Notice>: SBTelephonyManager: got last known network country code: ua
+ Sep 25 18:35:25 iPhone-Roman CommCenter[76] <Notice>: #I Got Signal bars 3.
+ Sep 25 18:35:25 iPhone-Roman accessoryd(Communications-iOS)[555] <Notice>: Sending communications update:
+{
+    SignalStrength = 3;
+}
+ Sep 25 18:35:25 iPhone-Roman CommCenter[76] <Notice>: #I Sending instrument id kAWDInstrumentNetworkCondition, with Instrument serial number 395
+ Sep 25 18:35:26 iPhone-Roman powerd[35] <Notice>: Process apsd.95 Released NoIdleSleepAssertion "com.apple.apsd-connectionestablish-push.apple.com-WWAN" age:00:00:30  id:4295001012 [System: SysAct]
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private>: Connection establish timer fired. Connection failed onInterface WWAN. Connected on 1 interfaces. Current link quality: <private>
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private>: Calling into AWD for ConnectionDisconnected
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: submitted metric <private>
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private>: AWD for ConnectionDisconnected finished
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> _disconnectStream for interface: WWAN
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> asked to change isSuspended=NO to NO
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: Closing <private> with environment <private>[production]
+ Sep 25 18:35:26 iPhone-Roman apsd(CFNetwork)[95] <Notice>: TCP Conn 0x1049a53a0 canceled
+ Sep 25 18:35:26 iPhone-Roman apsd(libnetwork.dylib)[95] <Notice>: [C1031 Hostname#51c83583:5223 tcp, legacy-socket] cancel
+ Sep 25 18:35:26 iPhone-Roman apsd(libnetwork.dylib)[95] <Notice>: [C1031 Hostname#51c83583:5223 tcp, legacy-socket] cancelled
+	[C1031.1 <private> 100.118.193.92:51082<->IPv4#08a7fd5a:5223]
+	Connected Path: satisfied (Path is satisfied), interface: pdp_ip0, scoped, ipv4, dns
+	Duration: 30.007s, DNS @0.000s took 0.208s, TCP @0.209s took 0.078s
+	bytes in/out: 0/222, packets in/out: 0/1, rtt: 0.078s, retransmitted packets: 0, out-of-order packets: 0
+ Sep 25 18:35:26 iPhone-Roman apsd(libnetwork.dylib)[95] <Notice>: 0.000s [C1031 <private> Hostname#51c83583:5223 resolver] path:start
+ Sep 25 18:35:26 iPhone-Roman apsd(libnetwork.dylib)[95] <Notice>: 0.000s [C1031 <private> Hostname#51c83583:5223 resolver] path:satisfied
+ Sep 25 18:35:26 iPhone-Roman apsd(libnetwork.dylib)[95] <Notice>: 0.000s [C1031 <private> Hostname#51c83583:5223 resolver] resolver:start_dns
+ Sep 25 18:35:26 iPhone-Roman apsd(libnetwork.dylib)[95] <Notice>: 0.208s [C1031 <private> Hostname#51c83583:5223 resolver] resolver:receive_dns
+ Sep 25 18:35:26 iPhone-Roman apsd(libnetwork.dylib)[95] <Notice>: 0.208s [C1031.1 <private> 100.118.193.92:51082<->IPv4#08a7fd5a:5223 socket-flow] path:start
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: Closing <private> with environment <private>[production]
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: Connection closed production WWAN
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> canUseProxy? NO deviceConfiguration NO  isNearby NO
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> received courierConnectionStatusDidChange from <private>.
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> canUseProxy? NO deviceConfiguration NO  isNearby NO
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> canUseProxy? NO deviceConfiguration NO  isNearby NO
+ Sep 25 18:35:26 iPhone-Roman apsd(libnetwork.dylib)[95] <Notice>: 0.208s [C1031.1 <private> 100.118.193.92:51082<->IPv4#08a7fd5a:5223 socket-flow] path:satisfied
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> updating network guidance isConnected? YES
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> canUseProxy? NO deviceConfiguration NO  isNearby NO
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> canUseProxy? NO deviceConfiguration NO  isNearby NO
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private>: Disconnected in response to connection failure on interface WWAN. (Consecutive failures: 1) isConnected YES onInterface NonCellular  shouldUseDualChannel YES. Connected on 1 interfaces.
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: Resuming push keep alive timer in normal mode with action PCActionShrinkPushKeepAliveInterval
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: Last timer interruption was early: [<private>]. Expected fire time was [<private>].
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: WWAN growth algorithm-IPv4: received action PCActionShrinkPushKeepAliveInterval while in stage Backoff
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: <PCPersistentTimer: 0x10495c6d0> created <PCSimpleTimer: 0x10494faa0>
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: Started simple timer <PCSimpleTimer: 0x10494faa0> with fire date [2018-09-25 18:45:26 +0300]
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: <PCSimpleTimer: 0x10494faa0> created preventSleepTimer <PCDispatchTimer: 0x1048611c0> and fireTimer <PCDispatchTimer: 0x10498a190> on queue <OS_dispatch_queue_serial: PCSimpleTimer-timerQ>
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: <PCSimpleTimer: 0x10494faa0> Existing wake at (null) re-scheduling to 2018-09-25 18:45:11 +0300 with leeway of 0
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: Request to schedule wake 1 date 2018-09-25 18:45:11 +0300 leeway 0 service identifier com.apple.apsd(push.apple.com)-WWAN unique identifier <PCSimpleTimer: 0x10494faa0>
+ Sep 25 18:35:26 iPhone-Roman apsd(libnetwork.dylib)[95] <Notice>: 0.209s [C1031.1 <private> 100.118.193.92:51082<->IPv4#08a7fd5a:5223 socket-flow] flow:start_connect
+ Sep 25 18:35:26 iPhone-Roman apsd(libnetwork.dylib)[95] <Notice>: 0.286s [C1031.1 <private> 100.118.193.92:51082<->IPv4#08a7fd5a:5223 socket-flow] flow:finish_connect
+ Sep 25 18:35:26 iPhone-Roman apsd(libnetwork.dylib)[95] <Notice>: 0.286s [C1031 <private> Hostname#51c83583:5223 resolver] flow:finish_connect
+ Sep 25 18:35:26 iPhone-Roman apsd(libnetwork.dylib)[95] <Notice>: 0.287s [C1031.1 <private> 100.118.193.92:51082<->IPv4#08a7fd5a:5223 socket-flow] flow:changed_viability
+ Sep 25 18:35:26 iPhone-Roman apsd(libnetwork.dylib)[95] <Notice>: 0.287s [C1031 <private> Hostname#51c83583:5223 resolver] flow:changed_viability
+ Sep 25 18:35:26 iPhone-Roman apsd(libnetwork.dylib)[95] <Notice>: 30.007s [C1031] path:cancel
+ Sep 25 18:35:26 iPhone-Roman apsd(libnetwork.dylib)[95] <Notice>: nw_endpoint_flow_protocol_disconnected [C1031.1 IPv4#08a7fd5a:5223 cancelled socket-flow (null)] Output protocol disconnected
+ Sep 25 18:35:26 iPhone-Roman apsd(libnetwork.dylib)[95] <Notice>: nw_connection_report_state_with_handler_locked [C1031] reporting state cancelled
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: Enabling power monitoring for <PCSimpleTimer: 0x10494faa0> - 4 timers
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: <PCInterfaceUsabilityMonitor: 0x104908a10> [WWAN](pdp_ip0): isInterfaceUsable? YES reachable YES linkQuality 100 isNetworkCaptive? NO
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: <PCPersistentTimer: 0x10495c6d0> calculating _earlyFireDate. powerStateDetectionSupported = YES = (detectionSupported(YES) && (wwanIsUp(YES) || ! internetReachable(YES)))
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: Last system wake date (2018-09-25 18:12:05 +0300) was longer than half of the timer duration, so setting minimum fire date to fire date.
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: Scheduling a wake for date <private> leeway 0 wake identifier <private>
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: <PCPersistentTimer: 0x10495c6d0> Device is plugged in, overriding earlyFireProportion to be 1.0
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: <PCPersistentTimer: 0x10495c6d0> Calculated minimum fire date [2018-09-25 18:45:26 +0300] (100%) with fire date [2018-09-25 18:45:26 +0300], start date [2018-09-25 18:35:26 +0300], minimum early fire proportion 0, power state detection supported: yes, in high power state: no, early fire constant interval 0.000000
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: updating timer guidance to 2018-09-25 18:45:26 +0300
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: PCConnectionManager was stopped by client
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: Invalidating timer <PCPersistentTimer: 0x10495c6d0>
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: Invalidating simple timer <PCSimpleTimer: 0x10494faa0>
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: Canceling system wake for simpletimer [2018-09-25 18:45:11 +0300]
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: Request to schedule wake 0 date 2018-09-25 18:45:11 +0300 leeway 0 service identifier com.apple.apsd(push.apple.com)-WWAN unique identifier <PCSimpleTimer: 0x10494faa0>
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: APSCourier <private> adjusting connection. Connected on 1 interfaces. Current link quality: <private>
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> canUseProxy? NO deviceConfiguration NO  isNearby NO
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> calling _connectStream with interface preference WWAN
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> attempting to _connectStream. currently onInterface NonCellular consecutiveFailures 1 preference WWAN shouldUseDualChannel YES. Connected on 1 interfaces.
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: _getClientIdentity: already had identity: <private>
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: <PCInterfaceUsabilityMonitor: 0x104908a10> [WWAN](pdp_ip0): isInterfaceUsable? YES reachable YES linkQuality 100 isNetworkCaptive? NO
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: <PCInterfaceUsabilityMonitor: 0x104804460> [NonCellular](en2): isInterfaceUsable? NO reachable YES linkQuality -2 isNetworkCaptive? NO
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: <PCInterfaceUsabilityMonitor: 0x10491ac50> [NonCellular](en3): isInterfaceUsable? NO reachable YES linkQuality -2 isNetworkCaptive? NO
+ Sep 25 18:35:26 iPhone-Roman apsd(CommonUtilities)[95] <Notice>: Found cached network: 0x104826fa0
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: <PCInterfaceUsabilityMonitor: 0x104804e30> [NonCellular](en0): isInterfaceUsable? YES reachable YES linkQuality 100 isNetworkCaptive? NO
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> _connectStream - Stopping the connectionManager on our attemptInterface WWAN
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: PCConnectionManager was stopped by client
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private>: isWWANUsable YES  isWiFiUsable YES onInterface WWAN
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> Opening stream on interface WWAN
+ Sep 25 18:35:26 iPhone-Roman CommCenter[76] <Notice>: Client [<private>] (conn=0x129f8abd0) invoking <private>
+ Sep 25 18:35:26 iPhone-Roman CommCenter[76] <Notice>: Sending reply for request "<private>" (conn=0x129f8abd0): <private>
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: Opening <private> with environment <private>[production]
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: loadConfigurationForEnvironment: <private> production
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: Opening stream onInterface: WWAN, production
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private>: Connecting courier stream using configuration bag at <private> and port TCP 5223
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: Wake schedule for '<private>'(<private>) completed for [<private>] (took 0.010 seconds; result code 0)
+ Sep 25 18:35:26 iPhone-Roman CommCenter(PersistentConnection)[76] <Notice>: <private> _adjustPollTimerIfNecessary  rightStyle NO  isRunning NO  isInReconnectMode NO   intervalTimer (null)  firingIsImminent NO - should Adjust? NO
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: <private> _adjustPollTimerIfNecessary  rightStyle NO  isRunning NO  isInReconnectMode NO   intervalTimer (null)  firingIsImminent NO - should Adjust? NO
+ Sep 25 18:35:26 iPhone-Roman CommCenter(PersistentConnection)[76] <Notice>: <private> _adjustPollTimerIfNecessary  rightStyle NO  isRunning NO  isInReconnectMode NO   intervalTimer (null)  firingIsImminent NO - should Adjust? NO
+ Sep 25 18:35:26 iPhone-Roman CommCenter(PersistentConnection)[76] <Notice>: <private> _adjustPollTimerIfNecessary  rightStyle NO  isRunning NO  isInReconnectMode NO   intervalTimer (null)  firingIsImminent NO - should Adjust? NO
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: <private> _adjustPollTimerIfNecessary  rightStyle NO  isRunning YES  isInReconnectMode NO   intervalTimer <private>  firingIsImminent NO - should Adjust? NO
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: <private> _adjustPollTimerIfNecessary  rightStyle NO  isRunning NO  isInReconnectMode NO   intervalTimer (null)  firingIsImminent NO - should Adjust? NO
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: Disabling power monitoring for <PCSimpleTimer: 0x10494faa0> - 3 timers
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: <private> _adjustPollTimerIfNecessary  rightStyle NO  isRunning NO  isInReconnectMode NO   intervalTimer (null)  firingIsImminent NO - should Adjust? NO
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: Calling configuration completion blocks <private> expiration date Tue Sep 25 19:19:24 2018 error: (null)
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: APSTCPStream <private> got config <private>  -- opened? YES
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> setDisableCostDrivenDualChannelAttempts: changing from NO to NO (got number 0)
+ Sep 25 18:35:26 iPhone-Roman CommCenter(PersistentConnection)[76] <Notice>: <private> _adjustPollTimerIfNecessary  rightStyle NO  isRunning NO  isInReconnectMode NO   intervalTimer (null)  firingIsImminent NO - should Adjust? NO
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> setPiggybackDualChannelAttempts: changing from 50 to 50 (got number 50)
+ Sep 25 18:35:26 iPhone-Roman CommCenter(PersistentConnection)[76] <Notice>: <private> _adjustPollTimerIfNecessary  rightStyle NO  isRunning NO  isInReconnectMode NO   intervalTimer (null)  firingIsImminent NO - should Adjust? NO
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> setCostDrivenDualChannelAttempts: changing from 100 to 100 (got number 100)
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> setDisableDualModePiggybackTimer: changing from NO to NO (got number (null))
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> setNumberOfCriticalMessageFlushesBeforeDisconnecting: changing from 3 to 3 (got number 3)
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> setCriticalMessageKeepAliveTimerDuration: changing from 10.000000 to 10.000000 (got number 10)
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> setCriticalMessageTimeout: changing from 10.000000 to 10.000000 (got number 10)
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> setForcedShortTimeoutInterval: changing from 2.000000 to 2.000000 (got number 2)
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: Cancelling scheduled wake for <private> wake identifier <private>
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private>: slowReceiveThresholdNum = 60
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private>: keepAliveV2TimeDriftMaximum = 30
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private>: lastIPCachingPercentage = 0
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private>:  lastIPCachingTTLMinutes = 1440
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private>: firstUnlockDeliveryStatusPercentage = 1
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private>: minimumIntervalFallbackEnabled = YES
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private>: nagleEnabled is not available from config bag, default NO
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> env isLoadBalanced, using server count 50 and hostname <private>
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> _connectToServerWithPeerName: <private> and port: 5223 forceWWANInterface? YES via proxy((null))
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private> Set _kCFStreamSocketSetNoDelay = YES on writeStream {Succeeded: YES}
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: Interface manager: Binding stream to WWAN context kCTDataConnectionServiceTypeInternet. Success? YES
+ Sep 25 18:35:26 iPhone-Roman apsd(PersistentConnection)[95] <Notice>: Wake cancel for '<private>'(<private>) completed for [<private>] (took 0.004 seconds; result code 0)
+ Sep 25 18:35:26 iPhone-Roman apsd(CFNetwork)[95] <Notice>: TCP Conn [1032:0x104971ff0] using empty proxy configuration
+ Sep 25 18:35:26 iPhone-Roman apsd(CFNetwork)[95] <Notice>: Stream client bypassing proxies on TCP Conn [1032:0x104971ff0]
+ Sep 25 18:35:26 iPhone-Roman apsd(CFNetwork)[95] <Notice>: TCP Conn 0x104971ff0 started
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: <private>: Connecting to courier <private> with connection: <private> onInterface: WWAN
+ Sep 25 18:35:26 iPhone-Roman apsd(libnetwork.dylib)[95] <Notice>: [C1032 Hostname#f1e5c6a5:5223 tcp, legacy-socket] start
+ Sep 25 18:35:26 iPhone-Roman apsd(libnetwork.dylib)[95] <Notice>: nw_connection_report_state_with_handler_locked [C1032] reporting state preparing
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x04(QOS) Ind MsgId=0x0001 Bin=[<private>]
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I handleQOSEventReportInd: start
+ Sep 25 18:35:26 iPhone-Roman CommCenter[76] <Notice>: #I evt: Firing event 'QoSEventReport': with params=kOne <dictionary>
+ Sep 25 18:35:26 iPhone-Roman CommCenter[76] <Notice>: #I handleQualityOfServiceEstablished_sync: ConnectionMask: 1: false
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: Created metric container: 0x130002 succeeded? YES
+ Sep 25 18:35:26 iPhone-Roman apsd[95] <Notice>: Submitted metric: 0x130002 succeeded? YES
+ Sep 25 18:35:26 iPhone-Roman apsd(WirelessDiagnostics)[95] <Notice>: client.trigger:#N Random sample for 0x130002 is skip
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x22(COEX) Ind MsgId=0x0021 Bin=[<private>]
+ Sep 25 18:35:26 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:26 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:26 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:26 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:26 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:26 iPhone-Roman WirelessRadioManagerd[37] <Notice>: <private>
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0xe2(BSP) Ind MsgId=0xe013 Bin=[<private>]
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I CDRX Indication: LTE with CDRX is false
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0xe7(ELQM) Ind MsgId=0x0002 Bin=[<private>]
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: cell_server_connection_callback notification kCTRadioEnhancedLinkQualityNotification info {
+    kCTRadioEnhancedLinkQualityNotificationData = <02020001 00>;
+    kCTRadioEnhancedLinkQualityNotificationType = 16;
+}
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: kCTRadioEnhancedLinkQualityNotification payload <02020001 00>
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: eLQM: Updated cell states (payload = <02020001 00>): (LQM = 100, RRC = 1, INTF = 1)
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: eLQM: Posting RRC change notification with label = kNotificationCellLinkStateChange, state = 1, bitmask = 2, info = {
+    Detail = 0;
+    State = 1;
+}
+ Sep 25 18:35:26 iPhone-Roman CommCenter[76] <Notice>: Sending notification <private>
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: RRC State change
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102b2ae70 foreground: 1 primary: 0 for noi: NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:0
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: New RRC 1 when previous 0 from pdp_ip0, epoch interface pdp_ip0
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: NOICLIENT <0x102aa7490> observed discretionaryTrafficInvited of object NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:0, partial update to pid: 52, change: {
+    kind = 1;
+    new = 1;
+}
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102a8ef50 (voided)
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: NOICLIENT <0x102aa8210> observed discretionaryTrafficInvited of object NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:0, partial update to pid: 140, change: {
+    kind = 1;
+    new = 1;
+}
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102bd7800 (voided)
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: NOICLIENT <0x102a2c1a0> observed discretionaryTrafficInvited of object NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:0, partial update to pid: 36, change: {
+    kind = 1;
+    new = 1;
+}
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102bd7800 (voided)
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: NOICLIENT <0x102a2e8d0> observed discretionaryTrafficInvited of object NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:0, partial update to pid: 161, change: {
+    kind = 1;
+    new = 1;
+}
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102a8ef50 (voided)
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: NOICLIENT <0x102a5b530> observed discretionaryTrafficInvited of object NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:0, partial update to pid: 99, change: {
+    kind = 1;
+    new = 1;
+}
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102a8ef50 (voided)
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: RRC Update to ON. mach time: 1217606773333  <0x102b2ae70> (NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:0)
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>:  _startConnectionTimestamp: 1217606773333
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102b2ae70 foreground: 1 primary: 0 for noi: NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:0
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: AWD RRC Metric: noi.isAny with no foregroundActivity flag became ON (plugged in)
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102b58c80 foreground: 1 primary: 0 for noi: NOI: v:0 type:Cell, isAny:no, isBuiltin:yes, loi:1, flags:0
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102b34170 foreground: 1 primary: 0 for noi: NOI: v:0 type:Cell, isAny:yes, isBuiltin:no, loi:-1, flags:1
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: 0x102b32710 foreground: 1 primary: 0 for noi: NOI: v:0 type:Cell, isAny:no, isBuiltin:yes, loi:0, flags:0
+ Sep 25 18:35:26 iPhone-Roman symptomsd(SymptomEvaluator)[105] <Notice>: RRC ioctl sets 1 for interface pdp_ip0
+ Sep 25 18:35:26 iPhone-Roman dasd(DuetActivitySchedulerDaemon)[97] <Notice>: Trigger: <private> is now [<private>]
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x01(WDS) Ind MsgId=0x0001 Bin=['01 10 00 80 01 0C 04 23 08 01 00 04 00 18 01 00 02']
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x01(WDS) Ind MsgId=0x0001 Bin=['01 10 00 80 01 02 04 06 09 01 00 04 00 18 01 00 02']
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I handleWdsEventReportInd_sync: Received WDS Set Event Report Indications
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x04(QOS) Ind MsgId=0x0001 Bin=[<private>]
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I processWdsTlvDormancyStatus: Dormancy status: kDormancyStatusActive
+ Sep 25 18:35:26 iPhone-Roman CommCenter[76] <Notice>: #I setDormancy: from true to false
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I handleQOSEventReportInd: start
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x01(WDS) Req MsgId=0x0044 Bin=[<private>]
+ Sep 25 18:35:26 iPhone-Roman CommCenter[76] <Notice>: #I evt: Firing event 'QoSEventReport': with params=kOne <dictionary>
+ Sep 25 18:35:26 iPhone-Roman CommCenter[76] <Notice>: #I handleQualityOfServiceEstablished_sync: ConnectionMask: 1: false
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I EventReportInd, dormancy status: kActive
+ Sep 25 18:35:26 iPhone-Roman CommCenter[76] <Notice>: #I DormancyStatus event, success:true, status:kActive
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x01(WDS) Resp MsgId=0x0044 Bin=[<private>]
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libCommCenterMCommandDrivers.dylib)[76] <Notice>: #I sendWdsGetCurrentDataBearerTechReq_sync_block_invoke: Data Bearer Technology status: current network (2) rat mask (32) service option mask (0)
+ Sep 25 18:35:26 iPhone-Roman CommCenter[76] <Notice>: #I notifyDataBearer: dataMode kDataWirelessTechnologyLTE; fDormancy false; sending kRadioTransmitDCH(TxOn)
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0x03(NAS) Ind MsgId=0x555b Bin=[<private>]
+ Sep 25 18:35:26 iPhone-Roman CommCenter[76] <Notice>: #N Add Frequency List Failed
+ Sep 25 18:35:26 iPhone-Roman locationd[59] <Notice>: {"msg":"IMD: onTelephonyNotification", "valid":1, "isCacheValid":1, "gotUplinkFreq":1, "uplinkFreq(Hz)":"2540000000.000000", "gotUplinkBw":1, "uplinkBw(Hz)":"10000000.000000"}
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0xe2(BSP) Ind MsgId=0xe006 Bin=[<private>]
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libBasebandManager.dylib)[76] <Notice>: #I <private>
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libBasebandManager.dylib)[76] <Notice>: #I Sending <private> to <private> at 1537889726289
+ Sep 25 18:35:26 iPhone-Roman CommCenter(libATCommandStudioDynamic.dylib)[76] <Notice>: QMI: Svc=0xe2(BSP) Req MsgId=0xe002 Bin=[<private>]
+ Sep 25 18:35:26 iPhone-Roman CommCenter[76] <Notice>: #I received event kEventCTCellularTrasmitState
+ Sep 25 18:35:26 iPhone-Roman CommCenter[76] <Notice>: #I contents <private>
+ Sep 25 18:35:26 iPhone-Roman CommCenter(CoreMotion)[76] <Notice>: {"msg":"Sending cached messages to daemon", "event":"activity"}
+ Sep 25 18:35:26 iPhone-Roman locationd[59] <Notice>: {"msg":"state transition", "event":"state_transition", "state":"DaemonClient", "id":"0x107e75580", "property":"lifecycle", "old":"0x0", "new":"0x107e75580"}
+ Sep 25 18:35:26 iPhone-Roman locationd[59] <Notice>: {"msg":"state transition", "event":"state_transition", "
